@@ -1,0 +1,8 @@
+package defpackage;
+
+/* JADX INFO: loaded from: classes3.dex */
+public final class n28 {
+    static {
+        nc7.a();
+    }
+}

@@ -1,0 +1,50 @@
+package defpackage;
+
+/* JADX INFO: loaded from: classes.dex */
+public abstract class akf {
+    public static final dkf a = new dkf("ContentDescription", true, z80.S);
+    public static final dkf b = new dkf("StateDescription", 0);
+    public static final dkf c = new dkf("ProgressBarRangeInfo", 0);
+    public static final dkf d = new dkf("PaneTitle", true, z80.a0);
+    public static final dkf e = new dkf("SelectableGroup", 0);
+    public static final dkf f = new dkf("CollectionInfo", 0);
+    public static final dkf g = new dkf("CollectionItemInfo", 0);
+    public static final dkf h = new dkf("Heading", 0);
+    public static final dkf i = new dkf("TextEntryKey", 0);
+    public static final dkf j = new dkf("Disabled", 0);
+    public static final dkf k = new dkf("LiveRegion", 0);
+    public static final dkf l = new dkf("Focused", 0);
+    public static final dkf m = new dkf("IsContainer", 0);
+    public static final dkf n = new dkf("IsTraversalGroup");
+    public static final dkf o = new dkf("IsSensitiveData");
+    public static final dkf p = new dkf("InvisibleToUser", z80.W);
+    public static final dkf q = new dkf("HideFromAccessibility", z80.V);
+    public static final dkf r = new dkf("ContentType", z80.T);
+    public static final dkf s = new dkf("ContentDataType", z80.R);
+    public static final dkf t = new dkf("FillableData", z80.U);
+    public static final dkf u = new dkf("TraversalIndex", z80.f0);
+    public static final dkf v = new dkf("HorizontalScrollAxisRange", 0);
+    public static final dkf w = new dkf("VerticalScrollAxisRange", 0);
+    public static final dkf x = new dkf("IsPopup", true, z80.Y);
+    public static final dkf y = new dkf("IsDialog", true, z80.X);
+    public static final dkf z = new dkf("Role", true, z80.b0);
+    public static final dkf A = new dkf("TestTag", false, z80.d0);
+    public static final dkf B = new dkf("LinkTestMarker", false, z80.Z);
+    public static final dkf C = new dkf("Text", true, z80.e0);
+    public static final dkf D = new dkf("TextSubstitution");
+    public static final dkf E = new dkf("IsShowingTextSubstitution");
+    public static final dkf F = new dkf("InputText", 0);
+    public static final dkf G = new dkf("EditableText", 0);
+    public static final dkf H = new dkf("TextSelectionRange", 0);
+    public static final dkf I = new dkf("TextCompositionRange", 0);
+    public static final dkf J = new dkf("ImeAction", 0);
+    public static final dkf K = new dkf("Selected", 0);
+    public static final dkf L = new dkf("ToggleableState", 0);
+    public static final dkf M = new dkf("InputTextSuggestionState", 0);
+    public static final dkf N = new dkf("Password", 0);
+    public static final dkf O = new dkf("Error", 0);
+    public static final dkf P = new dkf("IndexForKey");
+    public static final dkf Q = new dkf("IsEditable");
+    public static final dkf R = new dkf("MaxTextLength");
+    public static final dkf S = new dkf("Shape", false, z80.c0);
+}

@@ -1,0 +1,158 @@
+  var W$s = __commonJS(yAe => {
+    var LJu = vBr();
+    var FJu = e => ({
+      setHttpHandler(t) {
+        e.httpHandler = t;
+      },
+      httpHandler() {
+        return e.httpHandler;
+      },
+      updateHttpClientConfig(t, n) {
+        e.httpHandler?.updateHttpClientConfig(t, n);
+      },
+      httpHandlerConfigs() {
+        return e.httpHandler.httpHandlerConfigs();
+      }
+    });
+    var UJu = e => ({
+      httpHandler: e.httpHandler()
+    });
+    class H$s {
+      name;
+      kind;
+      values;
+      constructor({
+        name: e,
+        kind: t = LJu.FieldPosition.HEADER,
+        values: n = []
+      }) {
+        this.name = e;
+        this.kind = t;
+        this.values = n;
+      }
+      add(e) {
+        this.values.push(e);
+      }
+      set(e) {
+        this.values = e;
+      }
+      remove(e) {
+        this.values = this.values.filter(t => t !== e);
+      }
+      toString() {
+        return this.values.map(e => e.includes(",") || e.includes(" ") ? `"${e}"` : e).join(", ");
+      }
+      get() {
+        return this.values;
+      }
+    }
+    class j$s {
+      entries = {};
+      encoding;
+      constructor({
+        fields: e = [],
+        encoding: t = "utf-8"
+      }) {
+        e.forEach(this.setField.bind(this));
+        this.encoding = t;
+      }
+      setField(e) {
+        this.entries[e.name.toLowerCase()] = e;
+      }
+      getField(e) {
+        return this.entries[e.toLowerCase()];
+      }
+      removeField(e) {
+        delete this.entries[e.toLowerCase()];
+      }
+      getByType(e) {
+        return Object.values(this.entries).filter(t => t.kind === e);
+      }
+    }
+    class Bbn {
+      method;
+      protocol;
+      hostname;
+      port;
+      path;
+      query;
+      headers;
+      username;
+      password;
+      fragment;
+      body;
+      constructor(e) {
+        this.method = e.method || "GET";
+        this.hostname = e.hostname || "localhost";
+        this.port = e.port;
+        this.query = e.query || {};
+        this.headers = e.headers || {};
+        this.body = e.body;
+        this.protocol = e.protocol ? e.protocol.slice(-1) !== ":" ? `${e.protocol}:` : e.protocol : "https:";
+        this.path = e.path ? e.path.charAt(0) !== "/" ? `/${e.path}` : e.path : "/";
+        this.username = e.username;
+        this.password = e.password;
+        this.fragment = e.fragment;
+      }
+      static clone(e) {
+        let t = new Bbn({
+          ...e,
+          headers: {
+            ...e.headers
+          }
+        });
+        if (t.query) {
+          t.query = BJu(t.query);
+        }
+        return t;
+      }
+      static isInstance(e) {
+        if (!e) {
+          return false;
+        }
+        let t = e;
+        return "method" in t && "protocol" in t && "hostname" in t && "path" in t && typeof t.query === "object" && typeof t.headers === "object";
+      }
+      clone() {
+        return Bbn.clone(this);
+      }
+    }
+    function BJu(e) {
+      return Object.keys(e).reduce((t, n) => {
+        let r = e[n];
+        return {
+          ...t,
+          [n]: Array.isArray(r) ? [...r] : r
+        };
+      }, {});
+    }
+    class q$s {
+      statusCode;
+      reason;
+      headers;
+      body;
+      constructor(e) {
+        this.statusCode = e.statusCode;
+        this.reason = e.reason;
+        this.headers = e.headers || {};
+        this.body = e.body;
+      }
+      static isInstance(e) {
+        if (!e) {
+          return false;
+        }
+        let t = e;
+        return typeof t.statusCode === "number" && typeof t.headers === "object";
+      }
+    }
+    function $Ju(e) {
+      return /^[a-z0-9][a-z0-9\.\-]*[a-z0-9]$/.test(e);
+    }
+    yAe.Field = H$s;
+    yAe.Fields = j$s;
+    yAe.HttpRequest = Bbn;
+    yAe.HttpResponse = q$s;
+    yAe.getHttpHandlerExtensionConfiguration = FJu;
+    yAe.isValidHostname = $Ju;
+    yAe.resolveHttpHandlerRuntimeConfig = UJu;
+  });

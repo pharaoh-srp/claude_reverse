@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="artifact_pill_count">
+        <item quantity="one">%d Artifact</item>
+        <item quantity="other">%d Artifacts</item>
+    </plurals>
+    <plurals name="artifact_pill_view_artifacts">
+        <item quantity="one">View artifact</item>
+        <item quantity="other">View artifacts</item>
+    </plurals>
+    <plurals name="calendar_creating_events">
+        <item quantity="one">Create %d event</item>
+        <item quantity="other">Create %d events</item>
+    </plurals>
+    <plurals name="calendar_deleting_events">
+        <item quantity="one">Delete %d event</item>
+        <item quantity="other">Delete %d events</item>
+    </plurals>
+    <plurals name="calendar_event_create_status_created">
+        <item quantity="one">Created %1$d event</item>
+        <item quantity="other">Created %1$d events</item>
+    </plurals>
+    <plurals name="calendar_event_create_status_failed_count">
+        <item quantity="one">Failed to create %1$d event</item>
+        <item quantity="other">Failed to create %1$d events</item>
+    </plurals>
+    <plurals name="calendar_event_delete_status_deleted">
+        <item quantity="one">Deleted %1$d event</item>
+        <item quantity="other">Deleted %1$d events</item>
+    </plurals>
+    <plurals name="calendar_event_delete_status_failed_count">
+        <item quantity="one">Failed to delete %1$d event</item>
+        <item quantity="other">Failed to delete %1$d events</item>
+    </plurals>
+    <plurals name="calendar_event_update_status_failed_count">
+        <item quantity="one">Failed to update %1$d event</item>
+        <item quantity="other">Failed to update %1$d events</item>
+    </plurals>
+    <plurals name="calendar_event_update_status_updated">
+        <item quantity="one">Updated %1$d event</item>
+        <item quantity="other">Updated %1$d events</item>
+    </plurals>
+    <plurals name="calendar_events_status_found">
+        <item quantity="one">Found %1$d event</item>
+        <item quantity="other">Found %1$d events</item>
+    </plurals>
+    <plurals name="calendar_list_status_found">
+        <item quantity="one">Found %1$d calendar</item>
+        <item quantity="other">Found %1$d calendars</item>
+    </plurals>
+    <plurals name="calendar_reminders_count">
+        <item quantity="one">%d reminder</item>
+        <item quantity="other">%d reminders</item>
+    </plurals>
+    <plurals name="calendar_updating_events">
+        <item quantity="one">Update %d event</item>
+        <item quantity="other">Update %d events</item>
+    </plurals>
+    <plurals name="calendars_selected_count">
+        <item quantity="one">%d calendar selected</item>
+        <item quantity="other">%d calendars selected</item>
+    </plurals>
+    <plurals name="capabilities_enabled_count">
+        <item quantity="one">%1$d enabled</item>
+        <item quantity="other">%1$d enabled</item>
+    </plurals>
+    <plurals name="ccr_init_clone_doing">
+        <item quantity="one">Cloning repository</item>
+        <item quantity="other">Cloning %1$d repositories</item>
+    </plurals>
+    <plurals name="ccr_init_clone_done">
+        <item quantity="one">Cloned repository</item>
+        <item quantity="other">Cloned %1$d repositories</item>
+    </plurals>
+    <plurals name="ccr_init_clone_resume_doing">
+        <item quantity="one">Refreshing your repository</item>
+        <item quantity="other">Refreshing your %1$d repositories</item>
+    </plurals>
+    <plurals name="ccr_init_clone_resume_done">
+        <item quantity="one">Refreshed your repository</item>
+        <item quantity="other">Refreshed your %1$d repositories</item>
+    </plurals>
+    <plurals name="ccr_init_clone_resume_todo">
+        <item quantity="one">Refresh your repository</item>
+        <item quantity="other">Refresh your %1$d repositories</item>
+    </plurals>
+    <plurals name="ccr_init_clone_todo">
+        <item quantity="one">Clone repository</item>
+        <item quantity="other">Clone %1$d repositories</item>
+    </plurals>
+    <plurals name="ccr_paired_sessions_subtitle">
+        <item quantity="one">%1$d of %2$d session</item>
+        <item quantity="other">%1$d of %2$d sessions</item>
+    </plurals>
+    <plurals name="ccr_received_ci_events">
+        <item quantity="one">Received a CI event</item>
+        <item quantity="other">Received %1$d CI events</item>
+    </plurals>
+    <plurals name="ccr_received_github_events">
+        <item quantity="one">Received a GitHub event</item>
+        <item quantity="other">Received %1$d GitHub events</item>
+    </plurals>
+    <plurals name="ccr_repo_subtitle_multi">
+        <item quantity="one">%1$s, +%2$d more</item>
+        <item quantity="other">%1$s, +%2$d more</item>
+    </plurals>
+    <plurals name="ccr_self_hosted_runners_online">
+        <item quantity="one">%1$d runner online</item>
+        <item quantity="other">%1$d runners online</item>
+    </plurals>
+    <plurals name="ccr_sheet_n_branches">
+        <item quantity="one">%d branch</item>
+        <item quantity="other">%d branches</item>
+    </plurals>
+    <plurals name="ccr_sheet_n_repos">
+        <item quantity="one">%d repo</item>
+        <item quantity="other">%d repos</item>
+    </plurals>
+    <plurals name="ccr_sheet_placeholder_repo_n_more">
+        <item quantity="one">Start a task in %1$s and %2$d more…</item>
+        <item quantity="other">Start a task in %1$s and %2$d more…</item>
+    </plurals>
+    <plurals name="ccr_summary_bash">
+        <item quantity="one">Ran a command</item>
+        <item quantity="other">Ran %d commands</item>
+    </plurals>
+    <plurals name="ccr_summary_edit">
+        <item quantity="one">Edited a file</item>
+        <item quantity="other">Edited %d files</item>
+    </plurals>
+    <plurals name="ccr_summary_glob">
+        <item quantity="one">Found files</item>
+        <item quantity="other">Found files</item>
+    </plurals>
+    <plurals name="ccr_summary_grep">
+        <item quantity="one">Searched code</item>
+        <item quantity="other">Searched code</item>
+    </plurals>
+    <plurals name="ccr_summary_notebook_edit">
+        <item quantity="one">Edited a notebook</item>
+        <item quantity="other">Edited %d notebooks</item>
+    </plurals>
+    <plurals name="ccr_summary_other">
+        <item quantity="one">Used a tool</item>
+        <item quantity="other">Used %d tools</item>
+    </plurals>
+    <plurals name="ccr_summary_proposed_plan">
+        <item quantity="one">Proposed a plan</item>
+        <item quantity="other">Proposed a plan</item>
+    </plurals>
+    <plurals name="ccr_summary_read">
+        <item quantity="one">Read a file</item>
+        <item quantity="other">Read %d files</item>
+    </plurals>
+    <plurals name="ccr_summary_task">
+        <item quantity="one">Ran an agent</item>
+        <item quantity="other">Ran %d agents</item>
+    </plurals>
+    <plurals name="ccr_summary_todo">
+        <item quantity="one">Updated todos</item>
+        <item quantity="other">Updated todos</item>
+    </plurals>
+    <plurals name="ccr_summary_web">
+        <item quantity="one">Browsed the web</item>
+        <item quantity="other">Browsed the web</item>
+    </plurals>
+    <plurals name="ccr_summary_write">
+        <item quantity="one">Created a file</item>
+        <item quantity="other">Created %d files</item>
+    </plurals>
+    <plurals name="ccr_thinking_token_count">
+        <item quantity="one">%1$s token</item>
+        <item quantity="other">%1$s tokens</item>
+    </plurals>
+    <plurals name="ccr_tool_approval_raw_args_overflow">
+        <item quantity="one">+ %1$d more argument</item>
+        <item quantity="other">+ %1$d more arguments</item>
+    </plurals>
+    <plurals name="ccr_tool_approval_raw_value_truncated">
+        <item quantity="one">… +%1$d character not shown</item>
+        <item quantity="other">… +%1$d characters not shown</item>
+    </plurals>
+    <plurals name="ccr_workflow_card_agents">
+        <item quantity="one">%1$d Agent</item>
+        <item quantity="other">%1$d Agents</item>
+    </plurals>
+    <plurals name="chart_a11y_series">
+        <item quantity="one">%1$d data series</item>
+        <item quantity="other">%1$d data series</item>
+    </plurals>
+    <plurals name="code_project_member_count">
+        <item quantity="one">%1$d member</item>
+        <item quantity="other">%1$d members</item>
+    </plurals>
+    <plurals name="code_project_member_count_truncated">
+        <item quantity="one">%1$d or more members</item>
+        <item quantity="other">%1$d or more members</item>
+    </plurals>
+    <plurals name="connected_apps_card_tools_count">
+        <item quantity="one">%1$d of %2$d tool enabled</item>
+        <item quantity="other">%1$d of %2$d tools enabled</item>
+    </plurals>
+    <plurals name="connected_apps_enabled_count">
+        <item quantity="one">%1$d enabled</item>
+        <item quantity="other">%1$d enabled</item>
+    </plurals>
+    <plurals name="connector_directory_show_more">
+        <item quantity="one">+1 more</item>
+        <item quantity="other">+%1$d more</item>
+    </plurals>
+    <plurals name="connectors_connected_count">
+        <item quantity="one">%1$d connected</item>
+        <item quantity="other">%1$d connected</item>
+    </plurals>
+    <plurals name="conway_forks_active_count">
+        <item quantity="one">· %1$d fork active</item>
+        <item quantity="other">· %1$d forks active</item>
+    </plurals>
+    <plurals name="conway_system_capabilities_tools">
+        <item quantity="one">%1$d tool</item>
+        <item quantity="other">%1$d tools</item>
+    </plurals>
+    <plurals name="diff_comments_chip_text">
+        <item quantity="one">%d comment</item>
+        <item quantity="other">%d comments</item>
+    </plurals>
+    <plurals name="document_preview_bottom_sheet_page_count">
+        <item quantity="one">%1$s page</item>
+        <item quantity="other">%1$s pages</item>
+    </plurals>
+    <plurals name="knowledge_sources">
+        <item quantity="one">Source</item>
+        <item quantity="other">Sources</item>
+    </plurals>
+    <plurals name="move_chats_title">
+        <item quantity="one">Move %d chat</item>
+        <item quantity="other">Move %d chats</item>
+    </plurals>
+    <plurals name="permissions_enabled_count">
+        <item quantity="one">%1$d enabled</item>
+        <item quantity="other">%1$d enabled</item>
+    </plurals>
+    <plurals name="project_details_knowledge_file_count">
+        <item quantity="one">%d file</item>
+        <item quantity="other">%d files</item>
+    </plurals>
+    <plurals name="rate_limit_messages_remaining">
+        <item quantity="one">%1$d message remaining</item>
+        <item quantity="other">%1$d messages remaining</item>
+    </plurals>
+    <plurals name="rate_limit_notice_remaining_messages_until">
+        <item quantity="one">%1$s message &lt;a href=&apos;%3$s&apos;&gt;remaining&lt;/a&gt; until %2$s</item>
+        <item quantity="other">%1$s messages &lt;a href=&apos;%3$s&apos;&gt;remaining&lt;/a&gt; until %2$s</item>
+    </plurals>
+    <plurals name="rate_limit_notice_remaining_messages_until_day">
+        <item quantity="one">%1$s message &lt;a href=&apos;%4$s&apos;&gt;remaining&lt;/a&gt; until %2$s at %3$s</item>
+        <item quantity="other">%1$s messages &lt;a href=&apos;%4$s&apos;&gt;remaining&lt;/a&gt; until %2$s at %3$s</item>
+    </plurals>
+    <plurals name="stt_education_time_limit">
+        <item quantity="one">Speak for up to %1$s minute</item>
+        <item quantity="other">Speak for up to %1$s minutes</item>
+    </plurals>
+    <plurals name="suggested_connector_card_header">
+        <item quantity="one">Suggested connector</item>
+        <item quantity="other">Suggested connectors</item>
+    </plurals>
+    <plurals name="task_pill_count">
+        <item quantity="one">%d task</item>
+        <item quantity="other">%d tasks</item>
+    </plurals>
+    <plurals name="task_step_detail_tool_run_steps">
+        <item quantity="one">%1$d tool call</item>
+        <item quantity="other">%1$d tool calls</item>
+    </plurals>
+    <plurals name="workflow_chip_text">
+        <item quantity="one">%d workflow</item>
+        <item quantity="other">%d workflows</item>
+    </plurals>
+</resources>

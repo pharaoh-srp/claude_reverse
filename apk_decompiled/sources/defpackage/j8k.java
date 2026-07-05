@@ -1,0 +1,15 @@
+package defpackage;
+
+/* JADX INFO: loaded from: classes3.dex */
+public final class j8k implements tac {
+    public static final j8k a = new j8k();
+
+    static {
+        fsh.x(fsh.r(orj.class, fsh.t(fsh.r(orj.class, fsh.t(fsh.r(orj.class, fsh.t(fsh.r(orj.class, new qqj(1)), 2)), 3)), 4)));
+    }
+
+    @Override // defpackage.cn6
+    public final /* synthetic */ void a(Object obj, Object obj2) {
+        throw ij0.e(obj);
+    }
+}

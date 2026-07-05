@@ -1,0 +1,6 @@
+package defpackage;
+
+/* JADX INFO: loaded from: classes3.dex */
+public final class q39 extends ee5 {
+    public String g;
+}

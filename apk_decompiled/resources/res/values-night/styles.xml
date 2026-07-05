@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.SplashScreen.DayNight" parent="@style/Base.Theme.SplashScreen">
+        <item name="isLightTheme">false</item>
+    </style>
+    <style name="Theme.Claude" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/bg100</item>
+        <item name="isLightTheme">false</item>
+    </style>
+    <style name="Theme.Claude.Splash" parent="@style/Theme.SplashScreen">
+        <item name="isLightTheme">false</item>
+        <item name="postSplashScreenTheme">@style/Theme.Claude</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo_claude_splash</item>
+        <item name="windowSplashScreenBackground">@color/bg100</item>
+    </style>
+</resources>

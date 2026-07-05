@@ -1,0 +1,72 @@
+[
+  {
+    "index": 0,
+    "entry": true,
+    "original_name": "/$bunfs/root/src/entrypoints/cli.js",
+    "saved_path": "/home/ubuntu/claude_reverse/extracted/src/entrypoints/cli.js",
+    "content_payload_offset": 142231664,
+    "content_file_offset": 225462392,
+    "content_size": 18430554,
+    "loader": "js",
+    "side": "server",
+    "bytecode_size": 142231472,
+    "module_info_size": 0,
+    "bytecode_origin_path": "/$bunfs/root/src/entrypoints/cli.js"
+  },
+  {
+    "index": 1,
+    "entry": false,
+    "original_name": "/$bunfs/root/image-processor.js",
+    "saved_path": "/home/ubuntu/claude_reverse/extracted/image-processor.js",
+    "content_payload_offset": 160662251,
+    "content_file_offset": 243892979,
+    "content_size": 1976,
+    "loader": "js",
+    "side": "server",
+    "bytecode_size": 0,
+    "module_info_size": 0,
+    "bytecode_origin_path": ""
+  },
+  {
+    "index": 2,
+    "entry": false,
+    "original_name": "/$bunfs/root/audio-capture.js",
+    "saved_path": "/home/ubuntu/claude_reverse/extracted/audio-capture.js",
+    "content_payload_offset": 160664258,
+    "content_file_offset": 243894986,
+    "content_size": 1974,
+    "loader": "js",
+    "side": "server",
+    "bytecode_size": 0,
+    "module_info_size": 0,
+    "bytecode_origin_path": ""
+  },
+  {
+    "index": 3,
+    "entry": false,
+    "original_name": "/$bunfs/root/image-processor.node",
+    "saved_path": "/home/ubuntu/claude_reverse/extracted/image-processor.node",
+    "content_payload_offset": 160666267,
+    "content_file_offset": 243896995,
+    "content_size": 1290960,
+    "loader": "napi",
+    "side": "client",
+    "bytecode_size": 0,
+    "module_info_size": 0,
+    "bytecode_origin_path": ""
+  },
+  {
+    "index": 4,
+    "entry": false,
+    "original_name": "/$bunfs/root/audio-capture.node",
+    "saved_path": "/home/ubuntu/claude_reverse/extracted/audio-capture.node",
+    "content_payload_offset": 161957260,
+    "content_file_offset": 245187988,
+    "content_size": 458600,
+    "loader": "napi",
+    "side": "client",
+    "bytecode_size": 0,
+    "module_info_size": 0,
+    "bytecode_origin_path": ""
+  }
+]

@@ -1,0 +1,6 @@
+package defpackage;
+
+/* JADX INFO: loaded from: classes2.dex */
+public interface og5 {
+    int read(byte[] bArr, int i, int i2);
+}

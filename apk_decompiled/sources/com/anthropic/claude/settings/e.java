@@ -1,0 +1,20 @@
+package com.anthropic.claude.settings;
+
+import com.anthropic.claude.settings.SettingsAppScreen;
+import defpackage.jce;
+import defpackage.kce;
+import defpackage.lq6;
+import defpackage.odf;
+import defpackage.pl9;
+import java.lang.annotation.Annotation;
+import kotlinx.serialization.KSerializer;
+
+/* JADX INFO: loaded from: classes3.dex */
+public final class e {
+    public static final /* synthetic */ e a = new e();
+
+    public final KSerializer serializer() {
+        kce kceVar = jce.a;
+        return new odf("com.anthropic.claude.settings.SettingsAppScreen", kceVar.b(SettingsAppScreen.class), new pl9[]{kceVar.b(SettingsAppScreen.BillingScreen.class), kceVar.b(SettingsAppScreen.CalendarPermissionScreen.class), kceVar.b(SettingsAppScreen.CapabilitiesScreen.class), kceVar.b(SettingsAppScreen.ConnectedAppsScreen.class), kceVar.b(SettingsAppScreen.ConnectorDirectory.class), kceVar.b(SettingsAppScreen.ConnectorDirectoryDetail.class), kceVar.b(SettingsAppScreen.ConnectorsScreen.class), kceVar.b(SettingsAppScreen.HealthPermissionScreen.class), kceVar.b(SettingsAppScreen.LicensesScreen.class), kceVar.b(SettingsAppScreen.LocationPermissionScreen.class), kceVar.b(SettingsAppScreen.McpServerToolsScreen.class), kceVar.b(SettingsAppScreen.MemoryFileDetailScreen.class), kceVar.b(SettingsAppScreen.MemoryFilesScreen.class), kceVar.b(SettingsAppScreen.MobileAppFeedbackScreen.class), kceVar.b(SettingsAppScreen.NotificationSettingsScreen.class), kceVar.b(SettingsAppScreen.PermissionsScreen.class), kceVar.b(SettingsAppScreen.PrivacyScreen.class), kceVar.b(SettingsAppScreen.ProfileScreen.class), kceVar.b(SettingsAppScreen.SettingsScreen.class), kceVar.b(SettingsAppScreen.SharedLinksScreen.class), kceVar.b(SettingsAppScreen.UsageScreen.class)}, new KSerializer[]{c.a, new lq6("com.anthropic.claude.settings.SettingsAppScreen.CalendarPermissionScreen", SettingsAppScreen.CalendarPermissionScreen.INSTANCE, new Annotation[0]), new lq6("com.anthropic.claude.settings.SettingsAppScreen.CapabilitiesScreen", SettingsAppScreen.CapabilitiesScreen.INSTANCE, new Annotation[0]), new lq6("com.anthropic.claude.settings.SettingsAppScreen.ConnectedAppsScreen", SettingsAppScreen.ConnectedAppsScreen.INSTANCE, new Annotation[0]), new lq6("com.anthropic.claude.settings.SettingsAppScreen.ConnectorDirectory", SettingsAppScreen.ConnectorDirectory.INSTANCE, new Annotation[0]), f.a, new lq6("com.anthropic.claude.settings.SettingsAppScreen.ConnectorsScreen", SettingsAppScreen.ConnectorsScreen.INSTANCE, new Annotation[0]), new lq6("com.anthropic.claude.settings.SettingsAppScreen.HealthPermissionScreen", SettingsAppScreen.HealthPermissionScreen.INSTANCE, new Annotation[0]), new lq6("com.anthropic.claude.settings.SettingsAppScreen.LicensesScreen", SettingsAppScreen.LicensesScreen.INSTANCE, new Annotation[0]), new lq6("com.anthropic.claude.settings.SettingsAppScreen.LocationPermissionScreen", SettingsAppScreen.LocationPermissionScreen.INSTANCE, new Annotation[0]), h.a, j.a, new lq6("com.anthropic.claude.settings.SettingsAppScreen.MemoryFilesScreen", SettingsAppScreen.MemoryFilesScreen.INSTANCE, new Annotation[0]), new lq6("com.anthropic.claude.settings.SettingsAppScreen.MobileAppFeedbackScreen", SettingsAppScreen.MobileAppFeedbackScreen.INSTANCE, new Annotation[0]), new lq6("com.anthropic.claude.settings.SettingsAppScreen.NotificationSettingsScreen", SettingsAppScreen.NotificationSettingsScreen.INSTANCE, new Annotation[0]), new lq6("com.anthropic.claude.settings.SettingsAppScreen.PermissionsScreen", SettingsAppScreen.PermissionsScreen.INSTANCE, new Annotation[0]), new lq6("com.anthropic.claude.settings.SettingsAppScreen.PrivacyScreen", SettingsAppScreen.PrivacyScreen.INSTANCE, new Annotation[0]), new lq6("com.anthropic.claude.settings.SettingsAppScreen.ProfileScreen", SettingsAppScreen.ProfileScreen.INSTANCE, new Annotation[0]), l.a, new lq6("com.anthropic.claude.settings.SettingsAppScreen.SharedLinksScreen", SettingsAppScreen.SharedLinksScreen.INSTANCE, new Annotation[0]), new lq6("com.anthropic.claude.settings.SettingsAppScreen.UsageScreen", SettingsAppScreen.UsageScreen.INSTANCE, new Annotation[0])}, new Annotation[0]);
+    }
+}

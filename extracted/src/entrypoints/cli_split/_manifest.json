@@ -1,0 +1,4538 @@
+[
+  {
+    "index": 0,
+    "filename": "runtime/0000___copyGetter.js",
+    "domain": "runtime",
+    "lines": 119,
+    "bytes": 3210,
+    "sourceLines": "1-119",
+    "label": "__copyGetter"
+  },
+  {
+    "index": 1,
+    "filename": "core/0001_Tan.js",
+    "domain": "core",
+    "lines": 614,
+    "bytes": 14359,
+    "sourceLines": "120-733",
+    "label": "Tan"
+  },
+  {
+    "index": 2,
+    "filename": "cli/0002_default.js",
+    "domain": "cli",
+    "lines": 800,
+    "bytes": 16559,
+    "sourceLines": "734-1533",
+    "label": "default"
+  },
+  {
+    "index": 3,
+    "filename": "auth/0003_waitForScrollIdle_updateLastInteractionTime_switchSession.js",
+    "domain": "auth",
+    "lines": 1804,
+    "bytes": 57968,
+    "sourceLines": "1534-3337",
+    "label": "waitForScrollIdle_updateLastInteractionTime_switchSession"
+  },
+  {
+    "index": 4,
+    "filename": "cli/0004_profileReport_profileCheckpoint_logStartupPerf.js",
+    "domain": "cli",
+    "lines": 12727,
+    "bytes": 364122,
+    "sourceLines": "3338-16064",
+    "label": "profileReport_profileCheckpoint_logStartupPerf"
+  },
+  {
+    "index": 5,
+    "filename": "zod/0005_void_util_unknown.js",
+    "domain": "zod",
+    "lines": 192,
+    "bytes": 5170,
+    "sourceLines": "16065-16256",
+    "label": "void_util_unknown"
+  },
+  {
+    "index": 6,
+    "filename": "cli/0006_xid_uuid7_uuid6.js",
+    "domain": "cli",
+    "lines": 8899,
+    "bytes": 302956,
+    "sourceLines": "16257-25155",
+    "label": "xid_uuid7_uuid6"
+  },
+  {
+    "index": 7,
+    "filename": "core/0007_zhTW_zhCN_vi.js",
+    "domain": "core",
+    "lines": 1918,
+    "bytes": 46525,
+    "sourceLines": "25156-27073",
+    "label": "zhTW_zhCN_vi"
+  },
+  {
+    "index": 8,
+    "filename": "zod/0008_time_duration_datetime.js",
+    "domain": "zod",
+    "lines": 1585,
+    "bytes": 45886,
+    "sourceLines": "27074-28658",
+    "label": "time_duration_datetime"
+  },
+  {
+    "index": 9,
+    "filename": "core/0009_string_number_date.js",
+    "domain": "core",
+    "lines": 27,
+    "bytes": 680,
+    "sourceLines": "28659-28685",
+    "label": "string_number_date"
+  },
+  {
+    "index": 10,
+    "filename": "zod/0010_xid_void_uuidv7.js",
+    "domain": "zod",
+    "lines": 2676,
+    "bytes": 73221,
+    "sourceLines": "28686-31361",
+    "label": "xid_void_uuidv7"
+  },
+  {
+    "index": 11,
+    "filename": "third_party/0011_fOt.js",
+    "domain": "third_party",
+    "lines": 4637,
+    "bytes": 126892,
+    "sourceLines": "31362-35998",
+    "label": "fOt"
+  },
+  {
+    "index": 12,
+    "filename": "core/0012_x_s.js",
+    "domain": "core",
+    "lines": 373,
+    "bytes": 9782,
+    "sourceLines": "35999-36371",
+    "label": "x_s"
+  },
+  {
+    "index": 13,
+    "filename": "third_party/0013_D_s.js",
+    "domain": "third_party",
+    "lines": 234,
+    "bytes": 6015,
+    "sourceLines": "36372-36605",
+    "label": "D_s"
+  },
+  {
+    "index": 14,
+    "filename": "core/0014_xOt.js",
+    "domain": "core",
+    "lines": 34,
+    "bytes": 860,
+    "sourceLines": "36606-36639",
+    "label": "xOt"
+  },
+  {
+    "index": 15,
+    "filename": "third_party/0015_j_s.js",
+    "domain": "third_party",
+    "lines": 2312,
+    "bytes": 65252,
+    "sourceLines": "36640-38951",
+    "label": "j_s"
+  },
+  {
+    "index": 16,
+    "filename": "core/0016_c.js",
+    "domain": "core",
+    "lines": 96,
+    "bytes": 2556,
+    "sourceLines": "38952-39047",
+    "label": "c"
+  },
+  {
+    "index": 17,
+    "filename": "third_party/0017_Jbs.js",
+    "domain": "third_party",
+    "lines": 44,
+    "bytes": 1232,
+    "sourceLines": "39048-39091",
+    "label": "Jbs"
+  },
+  {
+    "index": 18,
+    "filename": "core/0018_Zyu.js",
+    "domain": "core",
+    "lines": 1194,
+    "bytes": 35999,
+    "sourceLines": "39092-40285",
+    "label": "Zyu"
+  },
+  {
+    "index": 19,
+    "filename": "cli/0019_localPlatformLabel_createClaudeForChromeMcpServer_createChro.js",
+    "domain": "cli",
+    "lines": 3210,
+    "bytes": 79698,
+    "sourceLines": "40286-43495",
+    "label": "localPlatformLabel_createClaudeForChromeMcpServer_createChro"
+  },
+  {
+    "index": 20,
+    "filename": "auth/0020_USE_STAGING_OAUTH_USE_LOCAL_OAUTH_MCP_XAA_IDP_CLIENT_SECRET.js",
+    "domain": "auth",
+    "lines": 160,
+    "bytes": 7501,
+    "sourceLines": "43496-43655",
+    "label": "USE_STAGING_OAUTH_USE_LOCAL_OAUTH_MCP_XAA_IDP_CLIENT_SECRET"
+  },
+  {
+    "index": 21,
+    "filename": "config/0021_OTEL_TRACES_EXPORT_INTERVAL_OTEL_TRACES_EXPORTER_OTEL_RESOUR.js",
+    "domain": "config",
+    "lines": 199,
+    "bytes": 9373,
+    "sourceLines": "43656-43854",
+    "label": "OTEL_TRACES_EXPORT_INTERVAL_OTEL_TRACES_EXPORTER_OTEL_RESOUR"
+  },
+  {
+    "index": 22,
+    "filename": "auth/0022_preservableScopesFrom_getOauthConfig_fileSuffixForOauthConfi.js",
+    "domain": "auth",
+    "lines": 540,
+    "bytes": 15783,
+    "sourceLines": "43855-44394",
+    "label": "preservableScopesFrom_getOauthConfig_fileSuffixForOauthConfi"
+  },
+  {
+    "index": 23,
+    "filename": "cli/0023_withTimeout_sleep.js",
+    "domain": "cli",
+    "lines": 533,
+    "bytes": 12253,
+    "sourceLines": "44395-44927",
+    "label": "withTimeout_sleep"
+  },
+  {
+    "index": 24,
+    "filename": "third_party/0024_zTs.js",
+    "domain": "third_party",
+    "lines": 337,
+    "bytes": 9148,
+    "sourceLines": "44928-45264",
+    "label": "zTs"
+  },
+  {
+    "index": 25,
+    "filename": "core/0025_Uku.js",
+    "domain": "core",
+    "lines": 19,
+    "bytes": 458,
+    "sourceLines": "45265-45283",
+    "label": "Uku"
+  },
+  {
+    "index": 26,
+    "filename": "third_party/0026_HOr.js",
+    "domain": "third_party",
+    "lines": 115,
+    "bytes": 2681,
+    "sourceLines": "45284-45398",
+    "label": "HOr"
+  },
+  {
+    "index": 27,
+    "filename": "core/0027_section.js",
+    "domain": "core",
+    "lines": 3,
+    "bytes": 72,
+    "sourceLines": "45399-45401",
+    "label": "section"
+  },
+  {
+    "index": 28,
+    "filename": "third_party/0028_jEs.js",
+    "domain": "third_party",
+    "lines": 600,
+    "bytes": 19809,
+    "sourceLines": "45402-46001",
+    "label": "jEs"
+  },
+  {
+    "index": 29,
+    "filename": "core/0029_XAu.js",
+    "domain": "core",
+    "lines": 6,
+    "bytes": 189,
+    "sourceLines": "46002-46007",
+    "label": "XAu"
+  },
+  {
+    "index": 30,
+    "filename": "third_party/0030_jvs.js",
+    "domain": "third_party",
+    "lines": 319,
+    "bytes": 9319,
+    "sourceLines": "46008-46326",
+    "label": "jvs"
+  },
+  {
+    "index": 31,
+    "filename": "core/0031_iDr.js",
+    "domain": "core",
+    "lines": 250,
+    "bytes": 6111,
+    "sourceLines": "46327-46576",
+    "label": "iDr"
+  },
+  {
+    "index": 32,
+    "filename": "network/0032_origin_navigator_hasStandardBrowserWebWorkerEnv.js",
+    "domain": "network",
+    "lines": 318,
+    "bytes": 7862,
+    "sourceLines": "46577-46894",
+    "label": "origin_navigator_hasStandardBrowserWebWorkerEnv"
+  },
+  {
+    "index": 33,
+    "filename": "third_party/0033_bDr.js",
+    "domain": "third_party",
+    "lines": 557,
+    "bytes": 16277,
+    "sourceLines": "46895-47451",
+    "label": "bDr"
+  },
+  {
+    "index": 34,
+    "filename": "core/0034_section.js",
+    "domain": "core",
+    "lines": 7,
+    "bytes": 207,
+    "sourceLines": "47452-47458",
+    "label": "section"
+  },
+  {
+    "index": 35,
+    "filename": "third_party/0035_kws.js",
+    "domain": "third_party",
+    "lines": 475,
+    "bytes": 13786,
+    "sourceLines": "47459-47933",
+    "label": "kws"
+  },
+  {
+    "index": 36,
+    "filename": "core/0036_SDt.js",
+    "domain": "core",
+    "lines": 2219,
+    "bytes": 58691,
+    "sourceLines": "47934-50152",
+    "label": "SDt"
+  },
+  {
+    "index": 37,
+    "filename": "cli/0037_isCancel_isAxiosError_externalHttp.js",
+    "domain": "cli",
+    "lines": 567,
+    "bytes": 14688,
+    "sourceLines": "50153-50719",
+    "label": "isCancel_isAxiosError_externalHttp"
+  },
+  {
+    "index": 38,
+    "filename": "config/0038_ZELLIJ_ZED_TERM_XTERM_VERSION.js",
+    "domain": "config",
+    "lines": 825,
+    "bytes": 34677,
+    "sourceLines": "50720-51544",
+    "label": "ZELLIJ_ZED_TERM_XTERM_VERSION"
+  },
+  {
+    "index": 39,
+    "filename": "auth/0039_VOICE_STREAM_BASE_URL_VCR_RECORD_ULTRAPLAN_PROMPT_FILE.js",
+    "domain": "auth",
+    "lines": 595,
+    "bytes": 29261,
+    "sourceLines": "51545-52139",
+    "label": "VOICE_STREAM_BASE_URL_VCR_RECORD_ULTRAPLAN_PROMPT_FILE"
+  },
+  {
+    "index": 40,
+    "filename": "config/0040__CLAUDE_CODE_ASSUME_FIRST_PARTY_BASE_URL_CLOUD_ML_REGION_CLA.js",
+    "domain": "config",
+    "lines": 975,
+    "bytes": 30441,
+    "sourceLines": "52140-53114",
+    "label": "_CLAUDE_CODE_ASSUME_FIRST_PARTY_BASE_URL_CLOUD_ML_REGION_CLA"
+  },
+  {
+    "index": 41,
+    "filename": "third_party/0041_wy.js",
+    "domain": "third_party",
+    "lines": 1218,
+    "bytes": 32182,
+    "sourceLines": "53115-54332",
+    "label": "wy"
+  },
+  {
+    "index": 42,
+    "filename": "api/0042_HA.js",
+    "domain": "api",
+    "lines": 187,
+    "bytes": 5680,
+    "sourceLines": "54333-54519",
+    "label": "HA"
+  },
+  {
+    "index": 43,
+    "filename": "core/0043_YHe.js",
+    "domain": "core",
+    "lines": 1845,
+    "bytes": 47242,
+    "sourceLines": "54520-56364",
+    "label": "YHe"
+  },
+  {
+    "index": 44,
+    "filename": "cli/0044_resolveExecutableSafely_isCommandAvailableSafely_findExecuta.js",
+    "domain": "cli",
+    "lines": 1068,
+    "bytes": 24945,
+    "sourceLines": "56365-57432",
+    "label": "resolveExecutableSafely_isCommandAvailableSafely_findExecuta"
+  },
+  {
+    "index": 45,
+    "filename": "core/0045_Wks.js",
+    "domain": "core",
+    "lines": 846,
+    "bytes": 22514,
+    "sourceLines": "57433-58278",
+    "label": "Wks"
+  },
+  {
+    "index": 46,
+    "filename": "third_party/0046_iAs.js",
+    "domain": "third_party",
+    "lines": 355,
+    "bytes": 8917,
+    "sourceLines": "58279-58633",
+    "label": "iAs"
+  },
+  {
+    "index": 47,
+    "filename": "core/0047_g3u.js",
+    "domain": "core",
+    "lines": 26,
+    "bytes": 567,
+    "sourceLines": "58634-58659",
+    "label": "g3u"
+  },
+  {
+    "index": 48,
+    "filename": "third_party/0048_JMr.js",
+    "domain": "third_party",
+    "lines": 22,
+    "bytes": 633,
+    "sourceLines": "58660-58681",
+    "label": "JMr"
+  },
+  {
+    "index": 49,
+    "filename": "core/0049_XMr.js",
+    "domain": "core",
+    "lines": 1096,
+    "bytes": 24659,
+    "sourceLines": "58682-59777",
+    "label": "XMr"
+  },
+  {
+    "index": 50,
+    "filename": "third_party/0050_F0s.js",
+    "domain": "third_party",
+    "lines": 40,
+    "bytes": 908,
+    "sourceLines": "59778-59817",
+    "label": "F0s"
+  },
+  {
+    "index": 51,
+    "filename": "core/0051_wke.js",
+    "domain": "core",
+    "lines": 607,
+    "bytes": 13124,
+    "sourceLines": "59818-60424",
+    "label": "wke"
+  },
+  {
+    "index": 52,
+    "filename": "cli/0052_execSyncWithDefaults_BLOCKS_EVENT_LOOP_WILL_FREEZE_UI_MAKE_S.js",
+    "domain": "cli",
+    "lines": 470,
+    "bytes": 11045,
+    "sourceLines": "60425-60894",
+    "label": "execSyncWithDefaults_BLOCKS_EVENT_LOOP_WILL_FREEZE_UI_MAKE_S"
+  },
+  {
+    "index": 53,
+    "filename": "git/0053_stashToCleanState_redactGitRemoteCredentials_preserveGitStat.js",
+    "domain": "git",
+    "lines": 3893,
+    "bytes": 105782,
+    "sourceLines": "60895-64787",
+    "label": "stashToCleanState_redactGitRemoteCredentials_preserveGitStat"
+  },
+  {
+    "index": 54,
+    "filename": "sandbox/0054_isPreAskDeny_SANDBOX_AUTO_ALLOW_REASON_READ_ONLY_AUTO_ALLOW_.js",
+    "domain": "sandbox",
+    "lines": 3289,
+    "bytes": 155696,
+    "sourceLines": "64788-68076",
+    "label": "isPreAskDeny_SANDBOX_AUTO_ALLOW_REASON_READ_ONLY_AUTO_ALLOW_"
+  },
+  {
+    "index": 55,
+    "filename": "cli/0055_updateSettingsForSource_surfaceManagedSettingsErrorsHeadless.js",
+    "domain": "cli",
+    "lines": 1121,
+    "bytes": 30365,
+    "sourceLines": "68077-69197",
+    "label": "updateSettingsForSource_surfaceManagedSettingsErrorsHeadless"
+  },
+  {
+    "index": 56,
+    "filename": "third_party/0056_mDs.js",
+    "domain": "third_party",
+    "lines": 510,
+    "bytes": 14187,
+    "sourceLines": "69198-69707",
+    "label": "mDs"
+  },
+  {
+    "index": 57,
+    "filename": "core/0057_CDs.js",
+    "domain": "core",
+    "lines": 1,
+    "bytes": 15,
+    "sourceLines": "69708-69708",
+    "label": "CDs"
+  },
+  {
+    "index": 58,
+    "filename": "tls/0058_getWebSocketTLSOptions_getTLSFetchOptions_getMTLSConfig.js",
+    "domain": "tls",
+    "lines": 455,
+    "bytes": 10807,
+    "sourceLines": "69709-70163",
+    "label": "getWebSocketTLSOptions_getTLSFetchOptions_getMTLSConfig"
+  },
+  {
+    "index": 59,
+    "filename": "third_party/0059_PDs.js",
+    "domain": "third_party",
+    "lines": 264,
+    "bytes": 6987,
+    "sourceLines": "70164-70427",
+    "label": "PDs"
+  },
+  {
+    "index": 60,
+    "filename": "api/0060_hW.js",
+    "domain": "api",
+    "lines": 728,
+    "bytes": 20558,
+    "sourceLines": "70428-71155",
+    "label": "hW"
+  },
+  {
+    "index": 61,
+    "filename": "third_party/0061_UP.js",
+    "domain": "third_party",
+    "lines": 46,
+    "bytes": 1275,
+    "sourceLines": "71156-71201",
+    "label": "UP"
+  },
+  {
+    "index": 62,
+    "filename": "auth/0062_fromEnv_ENV_SESSION_ENV_SECRET.js",
+    "domain": "auth",
+    "lines": 214,
+    "bytes": 5950,
+    "sourceLines": "71202-71415",
+    "label": "fromEnv_ENV_SESSION_ENV_SECRET"
+  },
+  {
+    "index": 63,
+    "filename": "third_party/0063_dMs.js",
+    "domain": "third_party",
+    "lines": 49,
+    "bytes": 1073,
+    "sourceLines": "71416-71464",
+    "label": "dMs"
+  },
+  {
+    "index": 64,
+    "filename": "core/0064_Endpoint.js",
+    "domain": "core",
+    "lines": 240,
+    "bytes": 6518,
+    "sourceLines": "71465-71704",
+    "label": "Endpoint"
+  },
+  {
+    "index": 65,
+    "filename": "auth/0065_providerConfigFromInit_httpRequest_getInstanceMetadataEndpoi.js",
+    "domain": "auth",
+    "lines": 303,
+    "bytes": 6460,
+    "sourceLines": "71705-72007",
+    "label": "providerConfigFromInit_httpRequest_getInstanceMetadataEndpoi"
+  },
+  {
+    "index": 66,
+    "filename": "third_party/0066_QB.js",
+    "domain": "third_party",
+    "lines": 273,
+    "bytes": 7371,
+    "sourceLines": "72008-72280",
+    "label": "QB"
+  },
+  {
+    "index": 67,
+    "filename": "core/0067_e1s.js",
+    "domain": "core",
+    "lines": 43,
+    "bytes": 1145,
+    "sourceLines": "72281-72323",
+    "label": "e1s"
+  },
+  {
+    "index": 68,
+    "filename": "third_party/0068_o1s.js",
+    "domain": "third_party",
+    "lines": 62,
+    "bytes": 2246,
+    "sourceLines": "72324-72385",
+    "label": "o1s"
+  },
+  {
+    "index": 69,
+    "filename": "api/0069_jT.js",
+    "domain": "api",
+    "lines": 49,
+    "bytes": 1631,
+    "sourceLines": "72386-72434",
+    "label": "jT"
+  },
+  {
+    "index": 70,
+    "filename": "third_party/0070_fNt.js",
+    "domain": "third_party",
+    "lines": 24,
+    "bytes": 651,
+    "sourceLines": "72435-72458",
+    "label": "fNt"
+  },
+  {
+    "index": 71,
+    "filename": "api/0071_aFr.js",
+    "domain": "api",
+    "lines": 58,
+    "bytes": 1611,
+    "sourceLines": "72459-72516",
+    "label": "aFr"
+  },
+  {
+    "index": 72,
+    "filename": "third_party/0072_tAe.js",
+    "domain": "third_party",
+    "lines": 19,
+    "bytes": 753,
+    "sourceLines": "72517-72535",
+    "label": "tAe"
+  },
+  {
+    "index": 73,
+    "filename": "api/0073_y1s.js",
+    "domain": "api",
+    "lines": 46,
+    "bytes": 1403,
+    "sourceLines": "72536-72581",
+    "label": "y1s"
+  },
+  {
+    "index": 74,
+    "filename": "third_party/0074__1s.js",
+    "domain": "third_party",
+    "lines": 54,
+    "bytes": 1374,
+    "sourceLines": "72582-72635",
+    "label": "_1s"
+  },
+  {
+    "index": 75,
+    "filename": "api/0075_v1s.js",
+    "domain": "api",
+    "lines": 166,
+    "bytes": 4165,
+    "sourceLines": "72636-72801",
+    "label": "v1s"
+  },
+  {
+    "index": 76,
+    "filename": "third_party/0076_R1s.js",
+    "domain": "third_party",
+    "lines": 399,
+    "bytes": 10567,
+    "sourceLines": "72802-73200",
+    "label": "R1s"
+  },
+  {
+    "index": 77,
+    "filename": "api/0077_U1s.js",
+    "domain": "api",
+    "lines": 21,
+    "bytes": 669,
+    "sourceLines": "73201-73221",
+    "label": "U1s"
+  },
+  {
+    "index": 78,
+    "filename": "third_party/0078_H1s.js",
+    "domain": "third_party",
+    "lines": 2104,
+    "bytes": 58723,
+    "sourceLines": "73222-75325",
+    "label": "H1s"
+  },
+  {
+    "index": 79,
+    "filename": "core/0079_section.js",
+    "domain": "core",
+    "lines": 1,
+    "bytes": 5,
+    "sourceLines": "75326-75326",
+    "label": "section"
+  },
+  {
+    "index": 80,
+    "filename": "third_party/0080_KLs.js",
+    "domain": "third_party",
+    "lines": 742,
+    "bytes": 22358,
+    "sourceLines": "75327-76068",
+    "label": "KLs"
+  },
+  {
+    "index": 81,
+    "filename": "api/0081_lFs.js",
+    "domain": "api",
+    "lines": 21,
+    "bytes": 669,
+    "sourceLines": "76069-76089",
+    "label": "lFs"
+  },
+  {
+    "index": 82,
+    "filename": "third_party/0082_jFr.js",
+    "domain": "third_party",
+    "lines": 291,
+    "bytes": 8442,
+    "sourceLines": "76090-76380",
+    "label": "jFr"
+  },
+  {
+    "index": 83,
+    "filename": "api/0083_withBaseException_throwDefaultError_take.js",
+    "domain": "api",
+    "lines": 1418,
+    "bytes": 41246,
+    "sourceLines": "76381-77798",
+    "label": "withBaseException_throwDefaultError_take"
+  },
+  {
+    "index": 84,
+    "filename": "core/0084_tUs.js",
+    "domain": "core",
+    "lines": 26,
+    "bytes": 729,
+    "sourceLines": "77799-77824",
+    "label": "tUs"
+  },
+  {
+    "index": 85,
+    "filename": "auth/0085_fromHttp.js",
+    "domain": "auth",
+    "lines": 85,
+    "bytes": 2228,
+    "sourceLines": "77825-77909",
+    "label": "fromHttp"
+  },
+  {
+    "index": 86,
+    "filename": "third_party/0086_nUr.js",
+    "domain": "third_party",
+    "lines": 1805,
+    "bytes": 51758,
+    "sourceLines": "77910-79714",
+    "label": "nUr"
+  },
+  {
+    "index": 87,
+    "filename": "auth/0087__Bs.js",
+    "domain": "auth",
+    "lines": 29,
+    "bytes": 768,
+    "sourceLines": "79715-79743",
+    "label": "_Bs"
+  },
+  {
+    "index": 88,
+    "filename": "third_party/0088_EBs.js",
+    "domain": "third_party",
+    "lines": 1424,
+    "bytes": 37597,
+    "sourceLines": "79744-81167",
+    "label": "EBs"
+  },
+  {
+    "index": 89,
+    "filename": "api/0089_jUr.js",
+    "domain": "api",
+    "lines": 952,
+    "bytes": 26175,
+    "sourceLines": "81168-82119",
+    "label": "jUr"
+  },
+  {
+    "index": 90,
+    "filename": "third_party/0090_YUr.js",
+    "domain": "third_party",
+    "lines": 606,
+    "bytes": 16310,
+    "sourceLines": "82120-82725",
+    "label": "YUr"
+  },
+  {
+    "index": 91,
+    "filename": "api/0091_I2s.js",
+    "domain": "api",
+    "lines": 21,
+    "bytes": 669,
+    "sourceLines": "82726-82746",
+    "label": "I2s"
+  },
+  {
+    "index": 92,
+    "filename": "third_party/0092_ZUr.js",
+    "domain": "third_party",
+    "lines": 4512,
+    "bytes": 154721,
+    "sourceLines": "82747-87258",
+    "label": "ZUr"
+  },
+  {
+    "index": 93,
+    "filename": "core/0093_XYu.js",
+    "domain": "core",
+    "lines": 235,
+    "bytes": 6132,
+    "sourceLines": "87259-87493",
+    "label": "XYu"
+  },
+  {
+    "index": 94,
+    "filename": "third_party/0094_Xye.js",
+    "domain": "third_party",
+    "lines": 41,
+    "bytes": 1047,
+    "sourceLines": "87494-87534",
+    "label": "Xye"
+  },
+  {
+    "index": 95,
+    "filename": "core/0095_v.js",
+    "domain": "core",
+    "lines": 50,
+    "bytes": 1349,
+    "sourceLines": "87535-87584",
+    "label": "v"
+  },
+  {
+    "index": 96,
+    "filename": "third_party/0096__o.js",
+    "domain": "third_party",
+    "lines": 429,
+    "bytes": 14540,
+    "sourceLines": "87585-88013",
+    "label": "_o"
+  },
+  {
+    "index": 97,
+    "filename": "core/0097_section.js",
+    "domain": "core",
+    "lines": 85,
+    "bytes": 2769,
+    "sourceLines": "88014-88098",
+    "label": "section"
+  },
+  {
+    "index": 98,
+    "filename": "third_party/0098_vBr.js",
+    "domain": "third_party",
+    "lines": 77,
+    "bytes": 2275,
+    "sourceLines": "88099-88175",
+    "label": "vBr"
+  },
+  {
+    "index": 99,
+    "filename": "core/0099_BJu.js",
+    "domain": "core",
+    "lines": 158,
+    "bytes": 3856,
+    "sourceLines": "88176-88333",
+    "label": "BJu"
+  },
+  {
+    "index": 100,
+    "filename": "third_party/0100_rHs.js",
+    "domain": "third_party",
+    "lines": 1636,
+    "bytes": 44423,
+    "sourceLines": "88334-89969",
+    "label": "rHs"
+  },
+  {
+    "index": 101,
+    "filename": "api/0101_Hbn.js",
+    "domain": "api",
+    "lines": 119,
+    "bytes": 5054,
+    "sourceLines": "89970-90088",
+    "label": "Hbn"
+  },
+  {
+    "index": 102,
+    "filename": "third_party/0102_Zye.js",
+    "domain": "third_party",
+    "lines": 373,
+    "bytes": 10926,
+    "sourceLines": "90089-90461",
+    "label": "Zye"
+  },
+  {
+    "index": 103,
+    "filename": "core/0103_bQu.js",
+    "domain": "core",
+    "lines": 1344,
+    "bytes": 42698,
+    "sourceLines": "90462-91805",
+    "label": "bQu"
+  },
+  {
+    "index": 104,
+    "filename": "third_party/0104_ojs.js",
+    "domain": "third_party",
+    "lines": 40,
+    "bytes": 1397,
+    "sourceLines": "91806-91845",
+    "label": "ojs"
+  },
+  {
+    "index": 105,
+    "filename": "api/0105_ijs.js",
+    "domain": "api",
+    "lines": 21,
+    "bytes": 669,
+    "sourceLines": "91846-91866",
+    "label": "ijs"
+  },
+  {
+    "index": 106,
+    "filename": "third_party/0106_zbn.js",
+    "domain": "third_party",
+    "lines": 394,
+    "bytes": 12121,
+    "sourceLines": "91867-92260",
+    "label": "zbn"
+  },
+  {
+    "index": 107,
+    "filename": "api/0107_Ujs.js",
+    "domain": "api",
+    "lines": 21,
+    "bytes": 671,
+    "sourceLines": "92261-92281",
+    "label": "Ujs"
+  },
+  {
+    "index": 108,
+    "filename": "core/0108_section.js",
+    "domain": "core",
+    "lines": 5,
+    "bytes": 59,
+    "sourceLines": "92282-92286",
+    "label": "section"
+  },
+  {
+    "index": 109,
+    "filename": "third_party/0109_Xte.js",
+    "domain": "third_party",
+    "lines": 630,
+    "bytes": 19415,
+    "sourceLines": "92287-92916",
+    "label": "Xte"
+  },
+  {
+    "index": 110,
+    "filename": "core/0110_sSn.js",
+    "domain": "core",
+    "lines": 891,
+    "bytes": 21478,
+    "sourceLines": "92917-93807",
+    "label": "sSn"
+  },
+  {
+    "index": 111,
+    "filename": "api/0111_withBaseException_throwDefaultError_take.js",
+    "domain": "api",
+    "lines": 817,
+    "bytes": 24932,
+    "sourceLines": "93808-94624",
+    "label": "withBaseException_throwDefaultError_take"
+  },
+  {
+    "index": 112,
+    "filename": "auth/0112_validateSsoProfile_isSsoProfile_fromSSO.js",
+    "domain": "auth",
+    "lines": 301,
+    "bytes": 8509,
+    "sourceLines": "94625-94925",
+    "label": "validateSsoProfile_isSsoProfile_fromSSO"
+  },
+  {
+    "index": 113,
+    "filename": "third_party/0113_F2r.js",
+    "domain": "third_party",
+    "lines": 1044,
+    "bytes": 34170,
+    "sourceLines": "94926-95969",
+    "label": "F2r"
+  },
+  {
+    "index": 114,
+    "filename": "core/0114_krd.js",
+    "domain": "core",
+    "lines": 219,
+    "bytes": 6378,
+    "sourceLines": "95970-96188",
+    "label": "krd"
+  },
+  {
+    "index": 115,
+    "filename": "third_party/0115_R9s.js",
+    "domain": "third_party",
+    "lines": 616,
+    "bytes": 19744,
+    "sourceLines": "96189-96804",
+    "label": "R9s"
+  },
+  {
+    "index": 116,
+    "filename": "auth/0116_defaultProvider_credentialsWillNeedRefresh_credentialsTreate.js",
+    "domain": "auth",
+    "lines": 733,
+    "bytes": 22330,
+    "sourceLines": "96805-97537",
+    "label": "defaultProvider_credentialsWillNeedRefresh_credentialsTreate"
+  },
+  {
+    "index": 117,
+    "filename": "network/0117_shouldBypassProxyWithCidr_shouldBypassProxy_prefetchProxyAut.js",
+    "domain": "network",
+    "lines": 1139,
+    "bytes": 26980,
+    "sourceLines": "97538-98676",
+    "label": "shouldBypassProxyWithCidr_shouldBypassProxy_prefetchProxyAut"
+  },
+  {
+    "index": 118,
+    "filename": "api/0118_usesFirstPartyModelIds_shouldPropagateTraceContext_isFirstPa.js",
+    "domain": "api",
+    "lines": 9948,
+    "bytes": 385624,
+    "sourceLines": "98677-108624",
+    "label": "usesFirstPartyModelIds_shouldPropagateTraceContext_isFirstPa"
+  },
+  {
+    "index": 119,
+    "filename": "auth/0119_storeOAuthAccountInfo_shouldUseClaudeAIAuth_revokeOAuthToken.js",
+    "domain": "auth",
+    "lines": 1728,
+    "bytes": 45520,
+    "sourceLines": "108625-110352",
+    "label": "storeOAuthAccountInfo_shouldUseClaudeAIAuth_revokeOAuthToken"
+  },
+  {
+    "index": 120,
+    "filename": "api/0120_withBaseException_throwDefaultError_take.js",
+    "domain": "api",
+    "lines": 1256,
+    "bytes": 43688,
+    "sourceLines": "110353-111608",
+    "label": "withBaseException_throwDefaultError_take"
+  },
+  {
+    "index": 121,
+    "filename": "auth/0121_getDefaultRoleAssumerWithWebIdentity_getDefaultRoleAssumer_d.js",
+    "domain": "auth",
+    "lines": 821,
+    "bytes": 20193,
+    "sourceLines": "111609-112429",
+    "label": "getDefaultRoleAssumerWithWebIdentity_getDefaultRoleAssumer_d"
+  },
+  {
+    "index": 122,
+    "filename": "api/0122_withBaseException_throwDefaultError_take.js",
+    "domain": "api",
+    "lines": 1308,
+    "bytes": 46728,
+    "sourceLines": "112430-113737",
+    "label": "withBaseException_throwDefaultError_take"
+  },
+  {
+    "index": 123,
+    "filename": "auth/0123_propertyProviderChain_fromWebToken_fromTokenFile.js",
+    "domain": "auth",
+    "lines": 1749,
+    "bytes": 46251,
+    "sourceLines": "113738-115486",
+    "label": "propertyProviderChain_fromWebToken_fromTokenFile"
+  },
+  {
+    "index": 124,
+    "filename": "api/0124_swapShrinksContextWindow_strip1mTag_resolvesToDefaultModel.js",
+    "domain": "api",
+    "lines": 1371,
+    "bytes": 51521,
+    "sourceLines": "115487-116857",
+    "label": "swapShrinksContextWindow_strip1mTag_resolvesToDefaultModel"
+  },
+  {
+    "index": 125,
+    "filename": "cli/0125_sigtermThenKill_ownProcStartAsync_ownProcStart.js",
+    "domain": "cli",
+    "lines": 238,
+    "bytes": 6774,
+    "sourceLines": "116858-117095",
+    "label": "sigtermThenKill_ownProcStartAsync_ownProcStart"
+  },
+  {
+    "index": 126,
+    "filename": "sessions/0126_waitForTeammatesToBecomeIdle_setDynamicTeamContext_runWithTe.js",
+    "domain": "sessions",
+    "lines": 514,
+    "bytes": 12870,
+    "sourceLines": "117096-117609",
+    "label": "waitForTeammatesToBecomeIdle_setDynamicTeamContext_runWithTe"
+  },
+  {
+    "index": 127,
+    "filename": "third_party/0127_xpi.js",
+    "domain": "third_party",
+    "lines": 993,
+    "bytes": 26892,
+    "sourceLines": "117610-118602",
+    "label": "xpi"
+  },
+  {
+    "index": 128,
+    "filename": "core/0128_section.js",
+    "domain": "core",
+    "lines": 5,
+    "bytes": 305,
+    "sourceLines": "118603-118607",
+    "label": "section"
+  },
+  {
+    "index": 129,
+    "filename": "third_party/0129_Hpi.js",
+    "domain": "third_party",
+    "lines": 524,
+    "bytes": 13350,
+    "sourceLines": "118608-119131",
+    "label": "Hpi"
+  },
+  {
+    "index": 130,
+    "filename": "core/0130_rGr.js",
+    "domain": "core",
+    "lines": 195,
+    "bytes": 3907,
+    "sourceLines": "119132-119326",
+    "label": "rGr"
+  },
+  {
+    "index": 131,
+    "filename": "cli/0131_startKeychainPrefetch_setWindowsCredManagerAvailable_setLast.js",
+    "domain": "cli",
+    "lines": 267,
+    "bytes": 6886,
+    "sourceLines": "119327-119593",
+    "label": "startKeychainPrefetch_setWindowsCredManagerAvailable_setLast"
+  },
+  {
+    "index": 132,
+    "filename": "auth/0132_withCredentialsLock_resolveCredentialsFromConfig_resetWIFSin.js",
+    "domain": "auth",
+    "lines": 392,
+    "bytes": 11139,
+    "sourceLines": "119594-119985",
+    "label": "withCredentialsLock_resolveCredentialsFromConfig_resetWIFSin"
+  },
+  {
+    "index": 133,
+    "filename": "third_party/0133_TGr.js",
+    "domain": "third_party",
+    "lines": 879,
+    "bytes": 26139,
+    "sourceLines": "119986-120864",
+    "label": "TGr"
+  },
+  {
+    "index": 134,
+    "filename": "core/0134_RCd.js",
+    "domain": "core",
+    "lines": 1116,
+    "bytes": 26151,
+    "sourceLines": "120865-121980",
+    "label": "RCd"
+  },
+  {
+    "index": 135,
+    "filename": "third_party/0135_XGr.js",
+    "domain": "third_party",
+    "lines": 698,
+    "bytes": 22051,
+    "sourceLines": "121981-122678",
+    "label": "XGr"
+  },
+  {
+    "index": 136,
+    "filename": "core/0136_Byi.js",
+    "domain": "core",
+    "lines": 1784,
+    "bytes": 44880,
+    "sourceLines": "122679-124462",
+    "label": "Byi"
+  },
+  {
+    "index": 137,
+    "filename": "api/0137_default_BaseAnthropic_AnthropicBedrockMantle.js",
+    "domain": "api",
+    "lines": 194,
+    "bytes": 4810,
+    "sourceLines": "124463-124656",
+    "label": "default_BaseAnthropic_AnthropicBedrockMantle"
+  },
+  {
+    "index": 138,
+    "filename": "auth/0138_default_BaseAnthropic_AnthropicFoundry.js",
+    "domain": "auth",
+    "lines": 1841,
+    "bytes": 49831,
+    "sourceLines": "124657-126497",
+    "label": "default_BaseAnthropic_AnthropicFoundry"
+  },
+  {
+    "index": 139,
+    "filename": "third_party/0139_DSi.js",
+    "domain": "third_party",
+    "lines": 148,
+    "bytes": 4523,
+    "sourceLines": "126498-126645",
+    "label": "DSi"
+  },
+  {
+    "index": 140,
+    "filename": "core/0140_Bxn.js",
+    "domain": "core",
+    "lines": 464,
+    "bytes": 9945,
+    "sourceLines": "126646-127109",
+    "label": "Bxn"
+  },
+  {
+    "index": 141,
+    "filename": "third_party/0141_PTi.js",
+    "domain": "third_party",
+    "lines": 9,
+    "bytes": 206,
+    "sourceLines": "127110-127118",
+    "label": "PTi"
+  },
+  {
+    "index": 142,
+    "filename": "core/0142_ckd.js",
+    "domain": "core",
+    "lines": 705,
+    "bytes": 17939,
+    "sourceLines": "127119-127823",
+    "label": "ckd"
+  },
+  {
+    "index": 143,
+    "filename": "third_party/0143_hEi.js",
+    "domain": "third_party",
+    "lines": 9,
+    "bytes": 203,
+    "sourceLines": "127824-127832",
+    "label": "hEi"
+  },
+  {
+    "index": 144,
+    "filename": "core/0144_unexpectedError_postRequestFailed.js",
+    "domain": "core",
+    "lines": 1619,
+    "bytes": 47307,
+    "sourceLines": "127833-129451",
+    "label": "unexpectedError_postRequestFailed"
+  },
+  {
+    "index": 145,
+    "filename": "auth/0145_userTimeoutReached_userCanceled_unexpectedCredentialType.js",
+    "domain": "auth",
+    "lines": 460,
+    "bytes": 18174,
+    "sourceLines": "129452-129911",
+    "label": "userTimeoutReached_userCanceled_unexpectedCredentialType"
+  },
+  {
+    "index": 146,
+    "filename": "cli/0146_urlParseError_urlEmptyError_untrustedAuthority.js",
+    "domain": "cli",
+    "lines": 551,
+    "bytes": 18663,
+    "sourceLines": "129912-130462",
+    "label": "urlParseError_urlEmptyError_untrustedAuthority"
+  },
+  {
+    "index": 147,
+    "filename": "auth/0147_isKmsi_getJWSPayload_extractTokenClaims.js",
+    "domain": "auth",
+    "lines": 42,
+    "bytes": 1042,
+    "sourceLines": "130463-130504",
+    "label": "isKmsi_getJWSPayload_extractTokenClaims"
+  },
+  {
+    "index": 148,
+    "filename": "core/0148_X_MS_LIB_CAPABILITY_X_CLIENT_VER_X_CLIENT_SKU.js",
+    "domain": "core",
+    "lines": 1423,
+    "bytes": 50426,
+    "sourceLines": "130505-131927",
+    "label": "X_MS_LIB_CAPABILITY_X_CLIENT_VER_X_CLIENT_SKU"
+  },
+  {
+    "index": 149,
+    "filename": "auth/0149_instrumentBrokerParams_addUsername_addThrottling.js",
+    "domain": "auth",
+    "lines": 411,
+    "bytes": 11917,
+    "sourceLines": "131928-132338",
+    "label": "instrumentBrokerParams_addUsername_addThrottling"
+  },
+  {
+    "index": 150,
+    "filename": "core/0150_wasClockTurnedBack_toSecondsFromDate_toDateFromSeconds.js",
+    "domain": "core",
+    "lines": 37,
+    "bytes": 1045,
+    "sourceLines": "132339-132375",
+    "label": "wasClockTurnedBack_toSecondsFromDate_toDateFromSeconds"
+  },
+  {
+    "index": 151,
+    "filename": "cli/0151_updateCloudDiscoveryMetadata_updateAuthorityEndpointMetadata.js",
+    "domain": "cli",
+    "lines": 719,
+    "bytes": 28199,
+    "sourceLines": "132376-133094",
+    "label": "updateCloudDiscoveryMetadata_updateAuthorityEndpointMetadata"
+  },
+  {
+    "index": 152,
+    "filename": "core/0152_uxNotAllowed_refreshTokenExpired_noTokensFound.js",
+    "domain": "core",
+    "lines": 1070,
+    "bytes": 41540,
+    "sourceLines": "133095-134164",
+    "label": "uxNotAllowed_refreshTokenExpired_noTokensFound"
+  },
+  {
+    "index": 153,
+    "filename": "auth/0153_validateAuthorizationResponse_getStandardAuthorizeRequestPar.js",
+    "domain": "auth",
+    "lines": 516,
+    "bytes": 15878,
+    "sourceLines": "134165-134680",
+    "label": "validateAuthorizationResponse_getStandardAuthorizeRequestPar"
+  },
+  {
+    "index": 154,
+    "filename": "core/0154_Serializer_Deserializer.js",
+    "domain": "core",
+    "lines": 1277,
+    "bytes": 37217,
+    "sourceLines": "134681-135957",
+    "label": "Serializer_Deserializer"
+  },
+  {
+    "index": 155,
+    "filename": "third_party/0155_fit.js",
+    "domain": "third_party",
+    "lines": 1250,
+    "bytes": 35942,
+    "sourceLines": "135958-137207",
+    "label": "fit"
+  },
+  {
+    "index": 156,
+    "filename": "core/0156_CPd.js",
+    "domain": "core",
+    "lines": 5,
+    "bytes": 132,
+    "sourceLines": "137208-137212",
+    "label": "CPd"
+  },
+  {
+    "index": 157,
+    "filename": "third_party/0157_jCi.js",
+    "domain": "third_party",
+    "lines": 2058,
+    "bytes": 58060,
+    "sourceLines": "137213-139270",
+    "label": "jCi"
+  },
+  {
+    "index": 158,
+    "filename": "core/0158_eki.js",
+    "domain": "core",
+    "lines": 1923,
+    "bytes": 76992,
+    "sourceLines": "139271-141193",
+    "label": "eki"
+  },
+  {
+    "index": 159,
+    "filename": "auth/0159_useIdentityPlugin_serializeAuthenticationRecord_logger.js",
+    "domain": "auth",
+    "lines": 3240,
+    "bytes": 109770,
+    "sourceLines": "141194-144433",
+    "label": "useIdentityPlugin_serializeAuthenticationRecord_logger"
+  },
+  {
+    "index": 160,
+    "filename": "api/0160_default_BaseAnthropic_AnthropicAws.js",
+    "domain": "api",
+    "lines": 104,
+    "bytes": 2665,
+    "sourceLines": "144434-144537",
+    "label": "default_BaseAnthropic_AnthropicAws"
+  },
+  {
+    "index": 161,
+    "filename": "third_party/0161_a0i.js",
+    "domain": "third_party",
+    "lines": 765,
+    "bytes": 25406,
+    "sourceLines": "144538-145302",
+    "label": "a0i"
+  },
+  {
+    "index": 162,
+    "filename": "core/0162_ULd.js",
+    "domain": "core",
+    "lines": 32,
+    "bytes": 813,
+    "sourceLines": "145303-145334",
+    "label": "ULd"
+  },
+  {
+    "index": 163,
+    "filename": "third_party/0163_zzr.js",
+    "domain": "third_party",
+    "lines": 2790,
+    "bytes": 83775,
+    "sourceLines": "145335-148124",
+    "label": "zzr"
+  },
+  {
+    "index": 164,
+    "filename": "core/0164_SFd.js",
+    "domain": "core",
+    "lines": 5,
+    "bytes": 164,
+    "sourceLines": "148125-148129",
+    "label": "SFd"
+  },
+  {
+    "index": 165,
+    "filename": "third_party/0165_Y0i.js",
+    "domain": "third_party",
+    "lines": 2767,
+    "bytes": 88283,
+    "sourceLines": "148130-150896",
+    "label": "Y0i"
+  },
+  {
+    "index": 166,
+    "filename": "core/0166_O0n.js",
+    "domain": "core",
+    "lines": 164,
+    "bytes": 5874,
+    "sourceLines": "150897-151060",
+    "label": "O0n"
+  },
+  {
+    "index": 167,
+    "filename": "third_party/0167_MKr.js",
+    "domain": "third_party",
+    "lines": 1763,
+    "bytes": 60538,
+    "sourceLines": "151061-152823",
+    "label": "MKr"
+  },
+  {
+    "index": 168,
+    "filename": "core/0168_K0n.js",
+    "domain": "core",
+    "lines": 192,
+    "bytes": 5843,
+    "sourceLines": "152824-153015",
+    "label": "K0n"
+  },
+  {
+    "index": 169,
+    "filename": "api/0169_vertexAuthFetch_buildVertexGoogleAuth.js",
+    "domain": "api",
+    "lines": 1230,
+    "bytes": 32961,
+    "sourceLines": "153016-154245",
+    "label": "vertexAuthFetch_buildVertexGoogleAuth"
+  },
+  {
+    "index": 170,
+    "filename": "tools/0170_isPewterOwlTool_isPewterOwlHeader_isPewterOwlBrief.js",
+    "domain": "tools",
+    "lines": 678,
+    "bytes": 19604,
+    "sourceLines": "154246-154923",
+    "label": "isPewterOwlTool_isPewterOwlHeader_isPewterOwlBrief"
+  },
+  {
+    "index": 171,
+    "filename": "auth/0171_withOAuth401Retry_getWebFetchUserAgent_getUserAgent.js",
+    "domain": "auth",
+    "lines": 4489,
+    "bytes": 133454,
+    "sourceLines": "154924-159412",
+    "label": "withOAuth401Retry_getWebFetchUserAgent_getUserAgent"
+  },
+  {
+    "index": 172,
+    "filename": "third_party/0172_gDi.js",
+    "domain": "third_party",
+    "lines": 2192,
+    "bytes": 81321,
+    "sourceLines": "159413-161604",
+    "label": "gDi"
+  },
+  {
+    "index": 173,
+    "filename": "core/0173_a.js",
+    "domain": "core",
+    "lines": 391,
+    "bytes": 34433,
+    "sourceLines": "161605-161995",
+    "label": "a"
+  },
+  {
+    "index": 174,
+    "filename": "third_party/0174_Hne.js",
+    "domain": "third_party",
+    "lines": 37,
+    "bytes": 971,
+    "sourceLines": "161996-162032",
+    "label": "Hne"
+  },
+  {
+    "index": 175,
+    "filename": "core/0175_p.js",
+    "domain": "core",
+    "lines": 74,
+    "bytes": 2091,
+    "sourceLines": "162033-162106",
+    "label": "p"
+  },
+  {
+    "index": 176,
+    "filename": "third_party/0176_bJr.js",
+    "domain": "third_party",
+    "lines": 49,
+    "bytes": 1343,
+    "sourceLines": "162107-162155",
+    "label": "bJr"
+  },
+  {
+    "index": 177,
+    "filename": "core/0177_A2t.js",
+    "domain": "core",
+    "lines": 171,
+    "bytes": 4875,
+    "sourceLines": "162156-162326",
+    "label": "A2t"
+  },
+  {
+    "index": 178,
+    "filename": "third_party/0178_CJr.js",
+    "domain": "third_party",
+    "lines": 62,
+    "bytes": 1690,
+    "sourceLines": "162327-162388",
+    "label": "CJr"
+  },
+  {
+    "index": 179,
+    "filename": "core/0179_A.js",
+    "domain": "core",
+    "lines": 418,
+    "bytes": 10998,
+    "sourceLines": "162389-162806",
+    "label": "A"
+  },
+  {
+    "index": 180,
+    "filename": "third_party/0180_Gg.js",
+    "domain": "third_party",
+    "lines": 1115,
+    "bytes": 33386,
+    "sourceLines": "162807-163921",
+    "label": "Gg"
+  },
+  {
+    "index": 181,
+    "filename": "core/0181_jHi.js",
+    "domain": "core",
+    "lines": 1754,
+    "bytes": 53381,
+    "sourceLines": "163922-165675",
+    "label": "jHi"
+  },
+  {
+    "index": 182,
+    "filename": "auth/0182_updateSessionTitle_sendEventToRemoteSession_sendBashCommandT.js",
+    "domain": "auth",
+    "lines": 796,
+    "bytes": 21275,
+    "sourceLines": "165676-166471",
+    "label": "updateSessionTitle_sendEventToRemoteSession_sendBashCommandT"
+  },
+  {
+    "index": 183,
+    "filename": "cli/0183_uuidSlugFromUrl_sanitizeArtifactTitle_parseArtifactUrl.js",
+    "domain": "cli",
+    "lines": 157,
+    "bytes": 4857,
+    "sourceLines": "166472-166628",
+    "label": "uuidSlugFromUrl_sanitizeArtifactTitle_parseArtifactUrl"
+  },
+  {
+    "index": 184,
+    "filename": "tools/0184_SEND_USER_FILE_TOOL_PROMPT_SEND_USER_FILE_TOOL_NAME_DESCRIPT.js",
+    "domain": "tools",
+    "lines": 1337,
+    "bytes": 39635,
+    "sourceLines": "166629-167965",
+    "label": "SEND_USER_FILE_TOOL_PROMPT_SEND_USER_FILE_TOOL_NAME_DESCRIPT"
+  },
+  {
+    "index": 185,
+    "filename": "cli/0185_shutdown1PEventLogging_shouldSampleEvent_reinitialize1PEvent.js",
+    "domain": "cli",
+    "lines": 284,
+    "bytes": 7068,
+    "sourceLines": "167966-168249",
+    "label": "shutdown1PEventLogging_shouldSampleEvent_reinitialize1PEvent"
+  },
+  {
+    "index": 186,
+    "filename": "config/0186_shouldShowLaunchComposer_isLaunchComposerEnabled_isDaemonWor.js",
+    "domain": "config",
+    "lines": 2616,
+    "bytes": 69910,
+    "sourceLines": "168250-170865",
+    "label": "shouldShowLaunchComposer_isLaunchComposerEnabled_isDaemonWor"
+  },
+  {
+    "index": 187,
+    "filename": "sandbox/0187_subprocessEnv_shouldUseMcpAllowlistEnv_setSettingsColorEnv.js",
+    "domain": "sandbox",
+    "lines": 1006,
+    "bytes": 31433,
+    "sourceLines": "170866-171871",
+    "label": "subprocessEnv_shouldUseMcpAllowlistEnv_setSettingsColorEnv"
+  },
+  {
+    "index": 188,
+    "filename": "third_party/0188_aWe.js",
+    "domain": "third_party",
+    "lines": 421,
+    "bytes": 11092,
+    "sourceLines": "171872-172292",
+    "label": "aWe"
+  },
+  {
+    "index": 189,
+    "filename": "sandbox/0189_hasWorktreeRemoveHook_hasWorktreeCreateHook.js",
+    "domain": "sandbox",
+    "lines": 1474,
+    "bytes": 76554,
+    "sourceLines": "172293-173766",
+    "label": "hasWorktreeRemoveHook_hasWorktreeCreateHook"
+  },
+  {
+    "index": 190,
+    "filename": "third_party/0190_X4i.js",
+    "domain": "third_party",
+    "lines": 452,
+    "bytes": 12738,
+    "sourceLines": "173767-174218",
+    "label": "X4i"
+  },
+  {
+    "index": 191,
+    "filename": "core/0191_pWi.js",
+    "domain": "core",
+    "lines": 729,
+    "bytes": 19081,
+    "sourceLines": "174219-174947",
+    "label": "pWi"
+  },
+  {
+    "index": 192,
+    "filename": "cli/0192_watch_default_WatchHelper.js",
+    "domain": "cli",
+    "lines": 1548,
+    "bytes": 44771,
+    "sourceLines": "174948-176495",
+    "label": "watch_default_WatchHelper"
+  },
+  {
+    "index": 193,
+    "filename": "third_party/0193_GWi.js",
+    "domain": "third_party",
+    "lines": 29,
+    "bytes": 707,
+    "sourceLines": "176496-176524",
+    "label": "GWi"
+  },
+  {
+    "index": 194,
+    "filename": "core/0194_PZr.js",
+    "domain": "core",
+    "lines": 1172,
+    "bytes": 26811,
+    "sourceLines": "176525-177696",
+    "label": "PZr"
+  },
+  {
+    "index": 195,
+    "filename": "cli/0195_watchSystemTheme__resetInitialProbeForTesting.js",
+    "domain": "cli",
+    "lines": 460,
+    "bytes": 10047,
+    "sourceLines": "177697-178156",
+    "label": "watchSystemTheme__resetInitialProbeForTesting"
+  },
+  {
+    "index": 196,
+    "filename": "third_party/0196_HGi.js",
+    "domain": "third_party",
+    "lines": 12,
+    "bytes": 334,
+    "sourceLines": "178157-178168",
+    "label": "HGi"
+  },
+  {
+    "index": 197,
+    "filename": "core/0197_qMn.js",
+    "domain": "core",
+    "lines": 2160,
+    "bytes": 48759,
+    "sourceLines": "178169-180328",
+    "label": "qMn"
+  },
+  {
+    "index": 198,
+    "filename": "cli/0198_stopCapturingEarlyInput_startCapturingEarlyInput_seedEarlyIn.js",
+    "domain": "cli",
+    "lines": 143,
+    "bytes": 3320,
+    "sourceLines": "180329-180471",
+    "label": "stopCapturingEarlyInput_startCapturingEarlyInput_seedEarlyIn"
+  },
+  {
+    "index": 199,
+    "filename": "third_party/0199_aHt.js",
+    "domain": "third_party",
+    "lines": 18,
+    "bytes": 713,
+    "sourceLines": "180472-180489",
+    "label": "aHt"
+  },
+  {
+    "index": 200,
+    "filename": "core/0200_cVd.js",
+    "domain": "core",
+    "lines": 78,
+    "bytes": 4287,
+    "sourceLines": "180490-180567",
+    "label": "cVd"
+  },
+  {
+    "index": 201,
+    "filename": "third_party/0201_QMn.js",
+    "domain": "third_party",
+    "lines": 389,
+    "bytes": 11016,
+    "sourceLines": "180568-180956",
+    "label": "QMn"
+  },
+  {
+    "index": 202,
+    "filename": "core/0202__5i.js",
+    "domain": "core",
+    "lines": 5,
+    "bytes": 151,
+    "sourceLines": "180957-180961",
+    "label": "_5i"
+  },
+  {
+    "index": 203,
+    "filename": "third_party/0203_T5i.js",
+    "domain": "third_party",
+    "lines": 1097,
+    "bytes": 29645,
+    "sourceLines": "180962-182058",
+    "label": "T5i"
+  },
+  {
+    "index": 204,
+    "filename": "core/0204_O6i.js",
+    "domain": "core",
+    "lines": 1,
+    "bytes": 15,
+    "sourceLines": "182059-182059",
+    "label": "O6i"
+  },
+  {
+    "index": 205,
+    "filename": "cli/0205_getEraseScreenSequence_getClearTerminalSequence_eraseViewpor.js",
+    "domain": "cli",
+    "lines": 1488,
+    "bytes": 34550,
+    "sourceLines": "182060-183547",
+    "label": "getEraseScreenSequence_getClearTerminalSequence_eraseViewpor"
+  },
+  {
+    "index": 206,
+    "filename": "third_party/0206_y8i.js",
+    "domain": "third_party",
+    "lines": 8183,
+    "bytes": 249606,
+    "sourceLines": "183548-191730",
+    "label": "y8i"
+  },
+  {
+    "index": 207,
+    "filename": "core/0207_Glt.js",
+    "domain": "core",
+    "lines": 3890,
+    "bytes": 90523,
+    "sourceLines": "191731-195620",
+    "label": "Glt"
+  },
+  {
+    "index": 208,
+    "filename": "third_party/0208_czi.js",
+    "domain": "third_party",
+    "lines": 241,
+    "bytes": 6580,
+    "sourceLines": "195621-195861",
+    "label": "czi"
+  },
+  {
+    "index": 209,
+    "filename": "core/0209_XNn.js",
+    "domain": "core",
+    "lines": 3252,
+    "bytes": 90019,
+    "sourceLines": "195862-199113",
+    "label": "XNn"
+  },
+  {
+    "index": 210,
+    "filename": "third_party/0210_Yzi.js",
+    "domain": "third_party",
+    "lines": 89,
+    "bytes": 2063,
+    "sourceLines": "199114-199202",
+    "label": "Yzi"
+  },
+  {
+    "index": 211,
+    "filename": "core/0211_Qzi.js",
+    "domain": "core",
+    "lines": 3284,
+    "bytes": 90555,
+    "sourceLines": "199203-202486",
+    "label": "Qzi"
+  },
+  {
+    "index": 212,
+    "filename": "third_party/0212_FKi.js",
+    "domain": "third_party",
+    "lines": 92,
+    "bytes": 2421,
+    "sourceLines": "202487-202578",
+    "label": "FKi"
+  },
+  {
+    "index": 213,
+    "filename": "core/0213_UKi.js",
+    "domain": "core",
+    "lines": 2147,
+    "bytes": 46162,
+    "sourceLines": "202579-204725",
+    "label": "UKi"
+  },
+  {
+    "index": 214,
+    "filename": "cli/0214_sharp_getNativeModule_default.js",
+    "domain": "cli",
+    "lines": 2372,
+    "bytes": 60551,
+    "sourceLines": "204726-207097",
+    "label": "sharp_getNativeModule_default"
+  },
+  {
+    "index": 215,
+    "filename": "third_party/0215_Sue.js",
+    "domain": "third_party",
+    "lines": 490,
+    "bytes": 14175,
+    "sourceLines": "207098-207587",
+    "label": "Sue"
+  },
+  {
+    "index": 216,
+    "filename": "core/0216_UYi.js",
+    "domain": "core",
+    "lines": 284,
+    "bytes": 8535,
+    "sourceLines": "207588-207871",
+    "label": "UYi"
+  },
+  {
+    "index": 217,
+    "filename": "third_party/0217_GYi.js",
+    "domain": "third_party",
+    "lines": 5334,
+    "bytes": 172747,
+    "sourceLines": "207872-213205",
+    "label": "GYi"
+  },
+  {
+    "index": 218,
+    "filename": "core/0218_ySe.js",
+    "domain": "core",
+    "lines": 1371,
+    "bytes": 36483,
+    "sourceLines": "213206-214576",
+    "label": "ySe"
+  },
+  {
+    "index": 219,
+    "filename": "cli/0219_trackClaudeInChromeTabId_openInChrome_isTrackedClaudeInChrom.js",
+    "domain": "cli",
+    "lines": 14394,
+    "bytes": 356983,
+    "sourceLines": "214577-228970",
+    "label": "trackClaudeInChromeTabId_openInChrome_isTrackedClaudeInChrom"
+  },
+  {
+    "index": 220,
+    "filename": "third_party/0220_wf.js",
+    "domain": "third_party",
+    "lines": 4006,
+    "bytes": 124954,
+    "sourceLines": "228971-232976",
+    "label": "wf"
+  },
+  {
+    "index": 221,
+    "filename": "core/0221_pip.js",
+    "domain": "core",
+    "lines": 174,
+    "bytes": 5371,
+    "sourceLines": "232977-233150",
+    "label": "pip"
+  },
+  {
+    "index": 222,
+    "filename": "third_party/0222_Hso.js",
+    "domain": "third_party",
+    "lines": 527,
+    "bytes": 15374,
+    "sourceLines": "233151-233677",
+    "label": "Hso"
+  },
+  {
+    "index": 223,
+    "filename": "tls/0223_fqt.js",
+    "domain": "tls",
+    "lines": 1461,
+    "bytes": 35906,
+    "sourceLines": "233678-235138",
+    "label": "fqt"
+  },
+  {
+    "index": 224,
+    "filename": "third_party/0224_Uut.js",
+    "domain": "third_party",
+    "lines": 327,
+    "bytes": 9207,
+    "sourceLines": "235139-235465",
+    "label": "Uut"
+  },
+  {
+    "index": 225,
+    "filename": "tls/0225_Xso.js",
+    "domain": "tls",
+    "lines": 1787,
+    "bytes": 56612,
+    "sourceLines": "235466-237252",
+    "label": "Xso"
+  },
+  {
+    "index": 226,
+    "filename": "third_party/0226_tio.js",
+    "domain": "third_party",
+    "lines": 4959,
+    "bytes": 165428,
+    "sourceLines": "237253-242211",
+    "label": "tio"
+  },
+  {
+    "index": 227,
+    "filename": "tls/0227_fra.js",
+    "domain": "tls",
+    "lines": 1153,
+    "bytes": 28149,
+    "sourceLines": "242212-243364",
+    "label": "fra"
+  },
+  {
+    "index": 228,
+    "filename": "third_party/0228_Ora.js",
+    "domain": "third_party",
+    "lines": 905,
+    "bytes": 31051,
+    "sourceLines": "243365-244269",
+    "label": "Ora"
+  },
+  {
+    "index": 229,
+    "filename": "core/0229_Pio.js",
+    "domain": "core",
+    "lines": 13895,
+    "bytes": 367587,
+    "sourceLines": "244270-258164",
+    "label": "Pio"
+  },
+  {
+    "index": 230,
+    "filename": "sandbox/0230_shouldForceSandboxOn_shouldAllowManagedSandboxDomainsOnly_re.js",
+    "domain": "sandbox",
+    "lines": 5821,
+    "bytes": 145193,
+    "sourceLines": "258165-263985",
+    "label": "shouldForceSandboxOn_shouldAllowManagedSandboxDomainsOnly_re"
+  },
+  {
+    "index": 231,
+    "filename": "cli/0231_parseCommandRaw_parseCommand_findCommandNode.js",
+    "domain": "cli",
+    "lines": 5582,
+    "bytes": 157413,
+    "sourceLines": "263986-269567",
+    "label": "parseCommandRaw_parseCommand_findCommandNode"
+  },
+  {
+    "index": 232,
+    "filename": "tools/0232_isSkillDescReframeEnabled_getSkillToolInfo_getSkillInfo.js",
+    "domain": "tools",
+    "lines": 782,
+    "bytes": 21289,
+    "sourceLines": "269568-270349",
+    "label": "isSkillDescReframeEnabled_getSkillToolInfo_getSkillInfo"
+  },
+  {
+    "index": 233,
+    "filename": "core/0233_getCronJitterConfig.js",
+    "domain": "core",
+    "lines": 176,
+    "bytes": 19068,
+    "sourceLines": "270350-270525",
+    "label": "getCronJitterConfig"
+  },
+  {
+    "index": 234,
+    "filename": "cli/0234_isKairosCronEnabled_isDurableCronEnabled_buildDurableParamDe.js",
+    "domain": "cli",
+    "lines": 999,
+    "bytes": 35744,
+    "sourceLines": "270526-271524",
+    "label": "isKairosCronEnabled_isDurableCronEnabled_buildDurableParamDe"
+  },
+  {
+    "index": 235,
+    "filename": "tools/0235_isPublishToolEnabled_isPlanArtifactEnabled_isEnableArtifactU.js",
+    "domain": "tools",
+    "lines": 132,
+    "bytes": 3497,
+    "sourceLines": "271525-271656",
+    "label": "isPublishToolEnabled_isPlanArtifactEnabled_isEnableArtifactU"
+  },
+  {
+    "index": 236,
+    "filename": "sessions/0236_isInForkChild_isForkSubagentEnabled_getForkSubagentSource.js",
+    "domain": "sessions",
+    "lines": 492,
+    "bytes": 24694,
+    "sourceLines": "271657-272148",
+    "label": "isInForkChild_isForkSubagentEnabled_getForkSubagentSource"
+  },
+  {
+    "index": 237,
+    "filename": "tools/0237_isDeferredTool_getPrompt_formatDeferredToolLine.js",
+    "domain": "tools",
+    "lines": 2422,
+    "bytes": 70175,
+    "sourceLines": "272149-274570",
+    "label": "isDeferredTool_getPrompt_formatDeferredToolLine"
+  },
+  {
+    "index": 238,
+    "filename": "third_party/0238_a4t.js",
+    "domain": "third_party",
+    "lines": 1560,
+    "bytes": 41105,
+    "sourceLines": "274571-276130",
+    "label": "a4t"
+  },
+  {
+    "index": 239,
+    "filename": "core/0239_section.js",
+    "domain": "core",
+    "lines": 90,
+    "bytes": 2313,
+    "sourceLines": "276131-276220",
+    "label": "section"
+  },
+  {
+    "index": 240,
+    "filename": "third_party/0240__ma.js",
+    "domain": "third_party",
+    "lines": 189,
+    "bytes": 4665,
+    "sourceLines": "276221-276409",
+    "label": "_ma"
+  },
+  {
+    "index": 241,
+    "filename": "core/0241_Ema.js",
+    "domain": "core",
+    "lines": 102,
+    "bytes": 2227,
+    "sourceLines": "276410-276511",
+    "label": "Ema"
+  },
+  {
+    "index": 242,
+    "filename": "tools/0242_safeInline_getProjectContextBlock_formatProjectContext.js",
+    "domain": "tools",
+    "lines": 1856,
+    "bytes": 49890,
+    "sourceLines": "276512-278367",
+    "label": "safeInline_getProjectContextBlock_formatProjectContext"
+  },
+  {
+    "index": 243,
+    "filename": "sessions/0243_userAbortReason_unwrapAbortReason_subagentParkAbortReason.js",
+    "domain": "sessions",
+    "lines": 4598,
+    "bytes": 139603,
+    "sourceLines": "278368-282965",
+    "label": "userAbortReason_unwrapAbortReason_subagentParkAbortReason"
+  },
+  {
+    "index": 244,
+    "filename": "tools/0244_asSystemPrompt.js",
+    "domain": "tools",
+    "lines": 5685,
+    "bytes": 159859,
+    "sourceLines": "282966-288650",
+    "label": "asSystemPrompt"
+  },
+  {
+    "index": 245,
+    "filename": "third_party/0245_o_a.js",
+    "domain": "third_party",
+    "lines": 7,
+    "bytes": 427,
+    "sourceLines": "288651-288657",
+    "label": "o_a"
+  },
+  {
+    "index": 246,
+    "filename": "core/0246_Vq.js",
+    "domain": "core",
+    "lines": 2691,
+    "bytes": 93165,
+    "sourceLines": "288658-291348",
+    "label": "Vq"
+  },
+  {
+    "index": 247,
+    "filename": "third_party/0247_X_a.js",
+    "domain": "third_party",
+    "lines": 6,
+    "bytes": 127,
+    "sourceLines": "291349-291354",
+    "label": "X_a"
+  },
+  {
+    "index": 248,
+    "filename": "core/0248_qX.js",
+    "domain": "core",
+    "lines": 12,
+    "bytes": 238,
+    "sourceLines": "291355-291366",
+    "label": "qX"
+  },
+  {
+    "index": 249,
+    "filename": "tools/0249_unhideComputerUseApps_createCliExecutor.js",
+    "domain": "tools",
+    "lines": 1547,
+    "bytes": 39879,
+    "sourceLines": "291367-292913",
+    "label": "unhideComputerUseApps_createCliExecutor"
+  },
+  {
+    "index": 250,
+    "filename": "third_party/0250_Qba.js",
+    "domain": "third_party",
+    "lines": 1610,
+    "bytes": 242046,
+    "sourceLines": "292914-294523",
+    "label": "Qba"
+  },
+  {
+    "index": 251,
+    "filename": "core/0251_owp.js",
+    "domain": "core",
+    "lines": 33,
+    "bytes": 784,
+    "sourceLines": "294524-294556",
+    "label": "owp"
+  },
+  {
+    "index": 252,
+    "filename": "third_party/0252_jSa.js",
+    "domain": "third_party",
+    "lines": 1199,
+    "bytes": 50927,
+    "sourceLines": "294557-295755",
+    "label": "jSa"
+  },
+  {
+    "index": 253,
+    "filename": "core/0253_section.js",
+    "domain": "core",
+    "lines": 180,
+    "bytes": 4824,
+    "sourceLines": "295756-295935",
+    "label": "section"
+  },
+  {
+    "index": 254,
+    "filename": "third_party/0254__Ta.js",
+    "domain": "third_party",
+    "lines": 627,
+    "bytes": 35456,
+    "sourceLines": "295936-296562",
+    "label": "_Ta"
+  },
+  {
+    "index": 255,
+    "filename": "core/0255_Gwp.js",
+    "domain": "core",
+    "lines": 108,
+    "bytes": 2569,
+    "sourceLines": "296563-296670",
+    "label": "Gwp"
+  },
+  {
+    "index": 256,
+    "filename": "third_party/0256_jTa.js",
+    "domain": "third_party",
+    "lines": 4222,
+    "bytes": 334858,
+    "sourceLines": "296671-300892",
+    "label": "jTa"
+  },
+  {
+    "index": 257,
+    "filename": "core/0257_aRp.js",
+    "domain": "core",
+    "lines": 79,
+    "bytes": 3565,
+    "sourceLines": "300893-300971",
+    "label": "aRp"
+  },
+  {
+    "index": 258,
+    "filename": "third_party/0258_jva.js",
+    "domain": "third_party",
+    "lines": 1418,
+    "bytes": 243327,
+    "sourceLines": "300972-302389",
+    "label": "jva"
+  },
+  {
+    "index": 259,
+    "filename": "core/0259_module.js",
+    "domain": "core",
+    "lines": 37,
+    "bytes": 1378,
+    "sourceLines": "302390-302426",
+    "label": "module"
+  },
+  {
+    "index": 260,
+    "filename": "third_party/0260_Lwa.js",
+    "domain": "third_party",
+    "lines": 86,
+    "bytes": 3313,
+    "sourceLines": "302427-302512",
+    "label": "Lwa"
+  },
+  {
+    "index": 261,
+    "filename": "core/0261_NRp.js",
+    "domain": "core",
+    "lines": 179,
+    "bytes": 6934,
+    "sourceLines": "302513-302691",
+    "label": "NRp"
+  },
+  {
+    "index": 262,
+    "filename": "third_party/0262_jwa.js",
+    "domain": "third_party",
+    "lines": 340,
+    "bytes": 28238,
+    "sourceLines": "302692-303031",
+    "label": "jwa"
+  },
+  {
+    "index": 263,
+    "filename": "core/0263_section.js",
+    "domain": "core",
+    "lines": 180,
+    "bytes": 4757,
+    "sourceLines": "303032-303211",
+    "label": "section"
+  },
+  {
+    "index": 264,
+    "filename": "third_party/0264_Kwa.js",
+    "domain": "third_party",
+    "lines": 1557,
+    "bytes": 62719,
+    "sourceLines": "303212-304768",
+    "label": "Kwa"
+  },
+  {
+    "index": 265,
+    "filename": "core/0265_lxp.js",
+    "domain": "core",
+    "lines": 116,
+    "bytes": 4573,
+    "sourceLines": "304769-304884",
+    "label": "lxp"
+  },
+  {
+    "index": 266,
+    "filename": "third_party/0266_jCa.js",
+    "domain": "third_party",
+    "lines": 916,
+    "bytes": 117253,
+    "sourceLines": "304885-305800",
+    "label": "jCa"
+  },
+  {
+    "index": 267,
+    "filename": "core/0267_Bxp.js",
+    "domain": "core",
+    "lines": 80,
+    "bytes": 14795,
+    "sourceLines": "305801-305880",
+    "label": "Bxp"
+  },
+  {
+    "index": 268,
+    "filename": "third_party/0268__Ra.js",
+    "domain": "third_party",
+    "lines": 88,
+    "bytes": 5828,
+    "sourceLines": "305881-305968",
+    "label": "_Ra"
+  },
+  {
+    "index": 269,
+    "filename": "core/0269_section.js",
+    "domain": "core",
+    "lines": 312,
+    "bytes": 7651,
+    "sourceLines": "305969-306280",
+    "label": "section"
+  },
+  {
+    "index": 270,
+    "filename": "third_party/0270_ARa.js",
+    "domain": "third_party",
+    "lines": 802,
+    "bytes": 27327,
+    "sourceLines": "306281-307082",
+    "label": "ARa"
+  },
+  {
+    "index": 271,
+    "filename": "core/0271_get.js",
+    "domain": "core",
+    "lines": 27,
+    "bytes": 1959,
+    "sourceLines": "307083-307109",
+    "label": "get"
+  },
+  {
+    "index": 272,
+    "filename": "third_party/0272_exa.js",
+    "domain": "third_party",
+    "lines": 2833,
+    "bytes": 115474,
+    "sourceLines": "307110-309942",
+    "label": "exa"
+  },
+  {
+    "index": 273,
+    "filename": "core/0273_reduceFileHistoryState_fileHistoryTrackEdit_fileHistoryRewin.js",
+    "domain": "core",
+    "lines": 4726,
+    "bytes": 117962,
+    "sourceLines": "309943-314668",
+    "label": "reduceFileHistoryState_fileHistoryTrackEdit_fileHistoryRewin"
+  },
+  {
+    "index": 274,
+    "filename": "tools/0274_sideloadFlagsBlockedMessage_localPluginDirsBlockedMessage_is.js",
+    "domain": "tools",
+    "lines": 6986,
+    "bytes": 165100,
+    "sourceLines": "314669-321654",
+    "label": "sideloadFlagsBlockedMessage_localPluginDirsBlockedMessage_is"
+  },
+  {
+    "index": 275,
+    "filename": "cli/0275_setupGracefulShutdown_resetShutdownState_releaseShutdownClai.js",
+    "domain": "cli",
+    "lines": 8749,
+    "bytes": 224296,
+    "sourceLines": "321655-330403",
+    "label": "setupGracefulShutdown_resetShutdownState_releaseShutdownClai"
+  },
+  {
+    "index": 276,
+    "filename": "sessions/0276_stopMemoryWatcher_startMemoryWatcher_rebuildStoreSet.js",
+    "domain": "sessions",
+    "lines": 6599,
+    "bytes": 178294,
+    "sourceLines": "330404-337002",
+    "label": "stopMemoryWatcher_startMemoryWatcher_rebuildStoreSet"
+  },
+  {
+    "index": 277,
+    "filename": "third_party/0277_y4n.js",
+    "domain": "third_party",
+    "lines": 70,
+    "bytes": 1909,
+    "sourceLines": "337003-337072",
+    "label": "y4n"
+  },
+  {
+    "index": 278,
+    "filename": "core/0278_tLp.js",
+    "domain": "core",
+    "lines": 154,
+    "bytes": 3675,
+    "sourceLines": "337073-337226",
+    "label": "tLp"
+  },
+  {
+    "index": 279,
+    "filename": "third_party/0279_g1a.js",
+    "domain": "third_party",
+    "lines": 1333,
+    "bytes": 45626,
+    "sourceLines": "337227-338559",
+    "label": "g1a"
+  },
+  {
+    "index": 280,
+    "filename": "core/0280_S9t.js",
+    "domain": "core",
+    "lines": 145,
+    "bytes": 2684,
+    "sourceLines": "338560-338704",
+    "label": "S9t"
+  },
+  {
+    "index": 281,
+    "filename": "third_party/0281_nLa.js",
+    "domain": "third_party",
+    "lines": 212,
+    "bytes": 6022,
+    "sourceLines": "338705-338916",
+    "label": "nLa"
+  },
+  {
+    "index": 282,
+    "filename": "core/0282_iLa.js",
+    "domain": "core",
+    "lines": 309,
+    "bytes": 7277,
+    "sourceLines": "338917-339225",
+    "label": "iLa"
+  },
+  {
+    "index": 283,
+    "filename": "third_party/0283_bLa.js",
+    "domain": "third_party",
+    "lines": 95,
+    "bytes": 3165,
+    "sourceLines": "339226-339320",
+    "label": "bLa"
+  },
+  {
+    "index": 284,
+    "filename": "core/0284_zlibSync_zlib_zipSync.js",
+    "domain": "core",
+    "lines": 2861,
+    "bytes": 70496,
+    "sourceLines": "339321-342181",
+    "label": "zlibSync_zlib_zipSync"
+  },
+  {
+    "index": 285,
+    "filename": "third_party/0285_kw.js",
+    "domain": "third_party",
+    "lines": 103,
+    "bytes": 3133,
+    "sourceLines": "342182-342284",
+    "label": "kw"
+  },
+  {
+    "index": 286,
+    "filename": "core/0286_FFa.js",
+    "domain": "core",
+    "lines": 26,
+    "bytes": 535,
+    "sourceLines": "342285-342310",
+    "label": "FFa"
+  },
+  {
+    "index": 287,
+    "filename": "third_party/0287_woe.js",
+    "domain": "third_party",
+    "lines": 2954,
+    "bytes": 71630,
+    "sourceLines": "342311-345264",
+    "label": "woe"
+  },
+  {
+    "index": 288,
+    "filename": "core/0288_L2p.js",
+    "domain": "core",
+    "lines": 204,
+    "bytes": 4510,
+    "sourceLines": "345265-345468",
+    "label": "L2p"
+  },
+  {
+    "index": 289,
+    "filename": "third_party/0289_zbo.js",
+    "domain": "third_party",
+    "lines": 99,
+    "bytes": 2550,
+    "sourceLines": "345469-345567",
+    "label": "zbo"
+  },
+  {
+    "index": 290,
+    "filename": "core/0290_E.js",
+    "domain": "core",
+    "lines": 144,
+    "bytes": 5005,
+    "sourceLines": "345568-345711",
+    "label": "E"
+  },
+  {
+    "index": 291,
+    "filename": "third_party/0291_Ybo.js",
+    "domain": "third_party",
+    "lines": 34,
+    "bytes": 908,
+    "sourceLines": "345712-345745",
+    "label": "Ybo"
+  },
+  {
+    "index": 292,
+    "filename": "core/0292_signMcpbFile.js",
+    "domain": "core",
+    "lines": 1040,
+    "bytes": 28630,
+    "sourceLines": "345746-346785",
+    "label": "signMcpbFile"
+  },
+  {
+    "index": 293,
+    "filename": "tls/0293_verifyMcpbFile_verifyCertificateChain_validateManifest.js",
+    "domain": "tls",
+    "lines": 1743,
+    "bytes": 49486,
+    "sourceLines": "346786-348528",
+    "label": "verifyMcpbFile_verifyCertificateChain_validateManifest"
+  },
+  {
+    "index": 294,
+    "filename": "tools/0294_unwrapCcrProxyUrl_suppressedConnectorsEqual_shouldSkipClaude.js",
+    "domain": "tools",
+    "lines": 2189,
+    "bytes": 57219,
+    "sourceLines": "348529-350717",
+    "label": "unwrapCcrProxyUrl_suppressedConnectorsEqual_shouldSkipClaude"
+  },
+  {
+    "index": 295,
+    "filename": "auth/0295_Qft.js",
+    "domain": "auth",
+    "lines": 3112,
+    "bytes": 95405,
+    "sourceLines": "350718-353829",
+    "label": "Qft"
+  },
+  {
+    "index": 296,
+    "filename": "tools/0296_shouldTrackDatadog_initializeAnalyticsSink.js",
+    "domain": "tools",
+    "lines": 7773,
+    "bytes": 221027,
+    "sourceLines": "353830-361602",
+    "label": "shouldTrackDatadog_initializeAnalyticsSink"
+  },
+  {
+    "index": 297,
+    "filename": "core/0297_G3a.js",
+    "domain": "core",
+    "lines": 716,
+    "bytes": 20283,
+    "sourceLines": "361603-362318",
+    "label": "G3a"
+  },
+  {
+    "index": 298,
+    "filename": "third_party/0298_bht.js",
+    "domain": "third_party",
+    "lines": 810,
+    "bytes": 20173,
+    "sourceLines": "362319-363128",
+    "label": "bht"
+  },
+  {
+    "index": 299,
+    "filename": "core/0299_t.js",
+    "domain": "core",
+    "lines": 160,
+    "bytes": 4108,
+    "sourceLines": "363129-363288",
+    "label": "t"
+  },
+  {
+    "index": 300,
+    "filename": "third_party/0300_mEo.js",
+    "domain": "third_party",
+    "lines": 2429,
+    "bytes": 70498,
+    "sourceLines": "363289-365717",
+    "label": "mEo"
+  },
+  {
+    "index": 301,
+    "filename": "core/0301_EWa.js",
+    "domain": "core",
+    "lines": 1,
+    "bytes": 15,
+    "sourceLines": "365718-365718",
+    "label": "EWa"
+  },
+  {
+    "index": 302,
+    "filename": "lsp/0302_createLSPClient.js",
+    "domain": "lsp",
+    "lines": 3580,
+    "bytes": 97324,
+    "sourceLines": "365719-369298",
+    "label": "createLSPClient"
+  },
+  {
+    "index": 303,
+    "filename": "core/0303_xNe.js",
+    "domain": "core",
+    "lines": 4985,
+    "bytes": 152899,
+    "sourceLines": "369299-374283",
+    "label": "xNe"
+  },
+  {
+    "index": 304,
+    "filename": "tools/0304_isAutobackgroundingAllowed_detectBlockedSleepPattern_PowerSh.js",
+    "domain": "tools",
+    "lines": 4438,
+    "bytes": 116389,
+    "sourceLines": "374284-378721",
+    "label": "isAutobackgroundingAllowed_detectBlockedSleepPattern_PowerSh"
+  },
+  {
+    "index": 305,
+    "filename": "sessions/0305_registerSessionFileAccessHooks_isMemoryFileAccess.js",
+    "domain": "sessions",
+    "lines": 6625,
+    "bytes": 185509,
+    "sourceLines": "378722-385346",
+    "label": "registerSessionFileAccessHooks_isMemoryFileAccess"
+  },
+  {
+    "index": 306,
+    "filename": "auth/0306_untrustedDeviceHint_recoverFromUntrustedDevice_readStoredTru.js",
+    "domain": "auth",
+    "lines": 2013,
+    "bytes": 49078,
+    "sourceLines": "385347-387359",
+    "label": "untrustedDeviceHint_recoverFromUntrustedDevice_readStoredTru"
+  },
+  {
+    "index": 307,
+    "filename": "sessions/0307_applySafeConfigEnvironmentVariables_applyConfigEnvironmentVa.js",
+    "domain": "sessions",
+    "lines": 3784,
+    "bytes": 98492,
+    "sourceLines": "387360-391143",
+    "label": "applySafeConfigEnvironmentVariables_applyConfigEnvironmentVa"
+  },
+  {
+    "index": 308,
+    "filename": "third_party/0308_y6n.js",
+    "domain": "third_party",
+    "lines": 533,
+    "bytes": 14669,
+    "sourceLines": "391144-391676",
+    "label": "y6n"
+  },
+  {
+    "index": 309,
+    "filename": "core/0309_Vgt.js",
+    "domain": "core",
+    "lines": 54,
+    "bytes": 1531,
+    "sourceLines": "391677-391730",
+    "label": "Vgt"
+  },
+  {
+    "index": 310,
+    "filename": "third_party/0310_Wza.js",
+    "domain": "third_party",
+    "lines": 2452,
+    "bytes": 76168,
+    "sourceLines": "391731-394182",
+    "label": "Wza"
+  },
+  {
+    "index": 311,
+    "filename": "core/0311_c8n.js",
+    "domain": "core",
+    "lines": 1287,
+    "bytes": 36503,
+    "sourceLines": "394183-395469",
+    "label": "c8n"
+  },
+  {
+    "index": 312,
+    "filename": "third_party/0312_aYa.js",
+    "domain": "third_party",
+    "lines": 11889,
+    "bytes": 480873,
+    "sourceLines": "395470-407358",
+    "label": "aYa"
+  },
+  {
+    "index": 313,
+    "filename": "core/0313_Z7p.js",
+    "domain": "core",
+    "lines": 13,
+    "bytes": 345,
+    "sourceLines": "407359-407371",
+    "label": "Z7p"
+  },
+  {
+    "index": 314,
+    "filename": "third_party/0314_HJa.js",
+    "domain": "third_party",
+    "lines": 502,
+    "bytes": 13488,
+    "sourceLines": "407372-407873",
+    "label": "HJa"
+  },
+  {
+    "index": 315,
+    "filename": "core/0315_uXa.js",
+    "domain": "core",
+    "lines": 43,
+    "bytes": 1253,
+    "sourceLines": "407874-407916",
+    "label": "uXa"
+  },
+  {
+    "index": 316,
+    "filename": "third_party/0316_fXa.js",
+    "domain": "third_party",
+    "lines": 193,
+    "bytes": 5954,
+    "sourceLines": "407917-408109",
+    "label": "fXa"
+  },
+  {
+    "index": 317,
+    "filename": "core/0317__Xa.js",
+    "domain": "core",
+    "lines": 23,
+    "bytes": 577,
+    "sourceLines": "408110-408132",
+    "label": "_Xa"
+  },
+  {
+    "index": 318,
+    "filename": "cli/0318_OTLPLogExporter.js",
+    "domain": "cli",
+    "lines": 35,
+    "bytes": 794,
+    "sourceLines": "408133-408167",
+    "label": "OTLPLogExporter"
+  },
+  {
+    "index": 319,
+    "filename": "third_party/0319_VRo.js",
+    "domain": "third_party",
+    "lines": 5140,
+    "bytes": 151599,
+    "sourceLines": "408168-413307",
+    "label": "VRo"
+  },
+  {
+    "index": 320,
+    "filename": "core/0320__Ve.js",
+    "domain": "core",
+    "lines": 49,
+    "bytes": 1970,
+    "sourceLines": "413308-413356",
+    "label": "_Ve"
+  },
+  {
+    "index": 321,
+    "filename": "third_party/0321_HVn.js",
+    "domain": "third_party",
+    "lines": 3052,
+    "bytes": 89950,
+    "sourceLines": "413357-416408",
+    "label": "HVn"
+  },
+  {
+    "index": 322,
+    "filename": "core/0322_ael.js",
+    "domain": "core",
+    "lines": 170,
+    "bytes": 3022,
+    "sourceLines": "416409-416578",
+    "label": "ael"
+  },
+  {
+    "index": 323,
+    "filename": "third_party/0323_del.js",
+    "domain": "third_party",
+    "lines": 13133,
+    "bytes": 436599,
+    "sourceLines": "416579-429711",
+    "label": "del"
+  },
+  {
+    "index": 324,
+    "filename": "core/0324_IAo.js",
+    "domain": "core",
+    "lines": 106,
+    "bytes": 3336,
+    "sourceLines": "429712-429817",
+    "label": "IAo"
+  },
+  {
+    "index": 325,
+    "filename": "third_party/0325_xrl.js",
+    "domain": "third_party",
+    "lines": 94,
+    "bytes": 2999,
+    "sourceLines": "429818-429911",
+    "label": "xrl"
+  },
+  {
+    "index": 326,
+    "filename": "core/0326_Drl.js",
+    "domain": "core",
+    "lines": 23,
+    "bytes": 603,
+    "sourceLines": "429912-429934",
+    "label": "Drl"
+  },
+  {
+    "index": 327,
+    "filename": "cli/0327_OTLPMetricExporter.js",
+    "domain": "cli",
+    "lines": 6,
+    "bytes": 116,
+    "sourceLines": "429935-429940",
+    "label": "OTLPMetricExporter"
+  },
+  {
+    "index": 328,
+    "filename": "third_party/0328_zVt.js",
+    "domain": "third_party",
+    "lines": 1110,
+    "bytes": 29972,
+    "sourceLines": "429941-431050",
+    "label": "zVt"
+  },
+  {
+    "index": 329,
+    "filename": "core/0329_tlm.js",
+    "domain": "core",
+    "lines": 35,
+    "bytes": 895,
+    "sourceLines": "431051-431085",
+    "label": "tlm"
+  },
+  {
+    "index": 330,
+    "filename": "third_party/0330_jol.js",
+    "domain": "third_party",
+    "lines": 2182,
+    "bytes": 64163,
+    "sourceLines": "431086-433267",
+    "label": "jol"
+  },
+  {
+    "index": 331,
+    "filename": "core/0331_Bsl.js",
+    "domain": "core",
+    "lines": 19,
+    "bytes": 644,
+    "sourceLines": "433268-433286",
+    "label": "Bsl"
+  },
+  {
+    "index": 332,
+    "filename": "third_party/0332_qsl.js",
+    "domain": "third_party",
+    "lines": 1239,
+    "bytes": 39732,
+    "sourceLines": "433287-434525",
+    "label": "qsl"
+  },
+  {
+    "index": 333,
+    "filename": "core/0333_section.js",
+    "domain": "core",
+    "lines": 19,
+    "bytes": 460,
+    "sourceLines": "434526-434544",
+    "label": "section"
+  },
+  {
+    "index": 334,
+    "filename": "third_party/0334_Wil.js",
+    "domain": "third_party",
+    "lines": 1141,
+    "bytes": 34104,
+    "sourceLines": "434545-435685",
+    "label": "Wil"
+  },
+  {
+    "index": 335,
+    "filename": "core/0335_Pal.js",
+    "domain": "core",
+    "lines": 23,
+    "bytes": 592,
+    "sourceLines": "435686-435708",
+    "label": "Pal"
+  },
+  {
+    "index": 336,
+    "filename": "cli/0336_OTLPLogExporter.js",
+    "domain": "cli",
+    "lines": 21,
+    "bytes": 670,
+    "sourceLines": "435709-435729",
+    "label": "OTLPLogExporter"
+  },
+  {
+    "index": 337,
+    "filename": "third_party/0337_Hal.js",
+    "domain": "third_party",
+    "lines": 13,
+    "bytes": 327,
+    "sourceLines": "435730-435742",
+    "label": "Hal"
+  },
+  {
+    "index": 338,
+    "filename": "core/0338_jal.js",
+    "domain": "core",
+    "lines": 23,
+    "bytes": 601,
+    "sourceLines": "435743-435765",
+    "label": "jal"
+  },
+  {
+    "index": 339,
+    "filename": "cli/0339_parseOtelHeadersEnvVar_parseExporterTypes_isTelemetryEnabled.js",
+    "domain": "cli",
+    "lines": 648,
+    "bytes": 20072,
+    "sourceLines": "435766-436413",
+    "label": "parseOtelHeadersEnvVar_parseExporterTypes_isTelemetryEnabled"
+  },
+  {
+    "index": 340,
+    "filename": "auth/0340_performLogout_fleetHostLogout_clearAuthRelatedCaches.js",
+    "domain": "auth",
+    "lines": 183,
+    "bytes": 4555,
+    "sourceLines": "436414-436596",
+    "label": "performLogout_fleetHostLogout_clearAuthRelatedCaches"
+  },
+  {
+    "index": 341,
+    "filename": "cli/0341_fetchBootstrapData_buildBootstrapRequestConfig_buildBootstra.js",
+    "domain": "cli",
+    "lines": 4727,
+    "bytes": 135016,
+    "sourceLines": "436597-441323",
+    "label": "fetchBootstrapData_buildBootstrapRequestConfig_buildBootstra"
+  },
+  {
+    "index": 342,
+    "filename": "auth/0342_installOAuthTokens_authStatus_authLogout.js",
+    "domain": "auth",
+    "lines": 343,
+    "bytes": 9979,
+    "sourceLines": "441324-441666",
+    "label": "installOAuthTokens_authStatus_authLogout"
+  },
+  {
+    "index": 343,
+    "filename": "third_party/0343_aze.js",
+    "domain": "third_party",
+    "lines": 9222,
+    "bytes": 267386,
+    "sourceLines": "441667-450888",
+    "label": "aze"
+  },
+  {
+    "index": 344,
+    "filename": "core/0344_KQ.js",
+    "domain": "core",
+    "lines": 1994,
+    "bytes": 42670,
+    "sourceLines": "450889-452882",
+    "label": "KQ"
+  },
+  {
+    "index": 345,
+    "filename": "cli/0345_resetDetectionCache_listUserTmuxSessions_isTmuxAvailable.js",
+    "domain": "cli",
+    "lines": 4465,
+    "bytes": 130235,
+    "sourceLines": "452883-457347",
+    "label": "resetDetectionCache_listUserTmuxSessions_isTmuxAvailable"
+  },
+  {
+    "index": 346,
+    "filename": "auth/0346_fze.js",
+    "domain": "auth",
+    "lines": 272,
+    "bytes": 6885,
+    "sourceLines": "457348-457619",
+    "label": "fze"
+  },
+  {
+    "index": 347,
+    "filename": "core/0347_wgm.js",
+    "domain": "core",
+    "lines": 3987,
+    "bytes": 91458,
+    "sourceLines": "457620-461606",
+    "label": "wgm"
+  },
+  {
+    "index": 348,
+    "filename": "cli/0348_severTtyInputForRelaunch_execRelaunch.js",
+    "domain": "cli",
+    "lines": 2027,
+    "bytes": 54709,
+    "sourceLines": "461607-463633",
+    "label": "severTtyInputForRelaunch_execRelaunch"
+  },
+  {
+    "index": 349,
+    "filename": "sessions/0349_restoreSkillStateFromMessages_removeInterruptedMessage_loadM.js",
+    "domain": "sessions",
+    "lines": 1483,
+    "bytes": 40941,
+    "sourceLines": "463634-465116",
+    "label": "restoreSkillStateFromMessages_removeInterruptedMessage_loadM"
+  },
+  {
+    "index": 350,
+    "filename": "core/0350_IKt.js",
+    "domain": "core",
+    "lines": 1,
+    "bytes": 15,
+    "sourceLines": "465117-465117",
+    "label": "IKt"
+  },
+  {
+    "index": 351,
+    "filename": "auth/0351_validateSessionRepository_validateGitState_toServerErrorType.js",
+    "domain": "auth",
+    "lines": 2240,
+    "bytes": 70892,
+    "sourceLines": "465118-467357",
+    "label": "validateSessionRepository_validateGitState_toServerErrorType"
+  },
+  {
+    "index": 352,
+    "filename": "tools/0352_isCoordinatorCommsMcpTool_hasCommsRoledServer_excludeCoordin.js",
+    "domain": "tools",
+    "lines": 278,
+    "bytes": 6587,
+    "sourceLines": "467358-467635",
+    "label": "isCoordinatorCommsMcpTool_hasCommsRoledServer_excludeCoordin"
+  },
+  {
+    "index": 353,
+    "filename": "sessions/0353_writeToMailbox_sendShutdownRequestToMailbox_readUnreadMessag.js",
+    "domain": "sessions",
+    "lines": 4382,
+    "bytes": 120754,
+    "sourceLines": "467636-472017",
+    "label": "writeToMailbox_sendShutdownRequestToMailbox_readUnreadMessag"
+  },
+  {
+    "index": 354,
+    "filename": "tools/0354_setAutoModeFromFallback_setAutoModeFlagCli_setAutoModeCircui.js",
+    "domain": "tools",
+    "lines": 2400,
+    "bytes": 90695,
+    "sourceLines": "472018-474417",
+    "label": "setAutoModeFromFallback_setAutoModeFlagCli_setAutoModeCircui"
+  },
+  {
+    "index": 355,
+    "filename": "third_party/0355_t_l.js",
+    "domain": "third_party",
+    "lines": 137,
+    "bytes": 51327,
+    "sourceLines": "474418-474554",
+    "label": "t_l"
+  },
+  {
+    "index": 356,
+    "filename": "core/0356_ADo.js",
+    "domain": "core",
+    "lines": 3966,
+    "bytes": 101768,
+    "sourceLines": "474555-478520",
+    "label": "ADo"
+  },
+  {
+    "index": 357,
+    "filename": "cli/0357_runUserPromptExpansionHook_processSlashCommand_processPrompt.js",
+    "domain": "cli",
+    "lines": 20865,
+    "bytes": 505116,
+    "sourceLines": "478521-499385",
+    "label": "runUserPromptExpansionHook_processSlashCommand_processPrompt"
+  },
+  {
+    "index": 358,
+    "filename": "third_party/0358_mTt.js",
+    "domain": "third_party",
+    "lines": 544,
+    "bytes": 17996,
+    "sourceLines": "499386-499929",
+    "label": "mTt"
+  },
+  {
+    "index": 359,
+    "filename": "core/0359_eRm.js",
+    "domain": "core",
+    "lines": 175,
+    "bytes": 4117,
+    "sourceLines": "499930-500104",
+    "label": "eRm"
+  },
+  {
+    "index": 360,
+    "filename": "third_party/0360_VU.js",
+    "domain": "third_party",
+    "lines": 15882,
+    "bytes": 427326,
+    "sourceLines": "500105-515986",
+    "label": "VU"
+  },
+  {
+    "index": 361,
+    "filename": "core/0361_YRl.js",
+    "domain": "core",
+    "lines": 1,
+    "bytes": 15,
+    "sourceLines": "515987-515987",
+    "label": "YRl"
+  },
+  {
+    "index": 362,
+    "filename": "cli/0362_default.js",
+    "domain": "cli",
+    "lines": 362,
+    "bytes": 8051,
+    "sourceLines": "515988-516349",
+    "label": "default"
+  },
+  {
+    "index": 363,
+    "filename": "tools/0363_validateURL_isPreapprovedUrl_isPermittedRedirect.js",
+    "domain": "tools",
+    "lines": 37,
+    "bytes": 1260,
+    "sourceLines": "516350-516386",
+    "label": "validateURL_isPreapprovedUrl_isPermittedRedirect"
+  },
+  {
+    "index": 364,
+    "filename": "core/0364_isPreapprovedUrl.js",
+    "domain": "core",
+    "lines": 633,
+    "bytes": 20770,
+    "sourceLines": "516387-517019",
+    "label": "isPreapprovedUrl"
+  },
+  {
+    "index": 365,
+    "filename": "tools/0365_wrapChannelMessage_isChannelsPolicyBlocked_getEffectiveChann.js",
+    "domain": "tools",
+    "lines": 4063,
+    "bytes": 129705,
+    "sourceLines": "517020-521082",
+    "label": "wrapChannelMessage_isChannelsPolicyBlocked_getEffectiveChann"
+  },
+  {
+    "index": 366,
+    "filename": "third_party/0366_Xer.js",
+    "domain": "third_party",
+    "lines": 5803,
+    "bytes": 210145,
+    "sourceLines": "521083-526885",
+    "label": "Xer"
+  },
+  {
+    "index": 367,
+    "filename": "core/0367_YLe.js",
+    "domain": "core",
+    "lines": 1946,
+    "bytes": 59855,
+    "sourceLines": "526886-528831",
+    "label": "YLe"
+  },
+  {
+    "index": 368,
+    "filename": "tools/0368_applyCcrTimeoutCap_MonitorTool.js",
+    "domain": "tools",
+    "lines": 4618,
+    "bytes": 144132,
+    "sourceLines": "528832-533449",
+    "label": "applyCcrTimeoutCap_MonitorTool"
+  },
+  {
+    "index": 369,
+    "filename": "sessions/0369_sanitizeSessionNamePrefix_getBridgeTokenOverride_getBridgeSe.js",
+    "domain": "sessions",
+    "lines": 5333,
+    "bytes": 174717,
+    "sourceLines": "533450-538782",
+    "label": "sanitizeSessionNamePrefix_getBridgeTokenOverride_getBridgeSe"
+  },
+  {
+    "index": 370,
+    "filename": "tools/0370_shouldToolsListOptInToBrief_isBriefEntitled_isBriefEnabled.js",
+    "domain": "tools",
+    "lines": 1151,
+    "bytes": 35766,
+    "sourceLines": "538783-539933",
+    "label": "shouldToolsListOptInToBrief_isBriefEntitled_isBriefEnabled"
+  },
+  {
+    "index": 371,
+    "filename": "core/0371_gJt.js",
+    "domain": "core",
+    "lines": 256,
+    "bytes": 8260,
+    "sourceLines": "539934-540189",
+    "label": "gJt"
+  },
+  {
+    "index": 372,
+    "filename": "zod/0372_aFe.js",
+    "domain": "zod",
+    "lines": 6954,
+    "bytes": 206762,
+    "sourceLines": "540190-547143",
+    "label": "aFe"
+  },
+  {
+    "index": 373,
+    "filename": "cli/0373_isWorktreeModeEnabled.js",
+    "domain": "cli",
+    "lines": 70,
+    "bytes": 1670,
+    "sourceLines": "547144-547213",
+    "label": "isWorktreeModeEnabled"
+  },
+  {
+    "index": 374,
+    "filename": "tools/0374_isAllowedAutoMemWritePath_initExtractMemories_executeExtract.js",
+    "domain": "tools",
+    "lines": 11148,
+    "bytes": 381583,
+    "sourceLines": "547214-558361",
+    "label": "isAllowedAutoMemWritePath_initExtractMemories_executeExtract"
+  },
+  {
+    "index": 375,
+    "filename": "core/0375_aLl.js",
+    "domain": "core",
+    "lines": 1,
+    "bytes": 15,
+    "sourceLines": "558362-558362",
+    "label": "aLl"
+  },
+  {
+    "index": 376,
+    "filename": "git/0376_buildGitSessionContext.js",
+    "domain": "git",
+    "lines": 55,
+    "bytes": 1196,
+    "sourceLines": "558363-558417",
+    "label": "buildGitSessionContext"
+  },
+  {
+    "index": 377,
+    "filename": "sessions/0377_withDisallowedCommandTools_withAllowedCommandTools_saveCache.js",
+    "domain": "sessions",
+    "lines": 6542,
+    "bytes": 198145,
+    "sourceLines": "558418-564959",
+    "label": "withDisallowedCommandTools_withAllowedCommandTools_saveCache"
+  },
+  {
+    "index": 378,
+    "filename": "cli/0378_thinkingConfigFromMaxTokens_getUltracodeRequested_getToolPer.js",
+    "domain": "cli",
+    "lines": 2566,
+    "bytes": 71788,
+    "sourceLines": "564960-567525",
+    "label": "thinkingConfigFromMaxTokens_getUltracodeRequested_getToolPer"
+  },
+  {
+    "index": 379,
+    "filename": "tools/0379_summarizeByServerPrefix_isToolSearchToolAvailable_isToolSear.js",
+    "domain": "tools",
+    "lines": 1696,
+    "bytes": 44973,
+    "sourceLines": "567526-569221",
+    "label": "summarizeByServerPrefix_isToolSearchToolAvailable_isToolSear"
+  },
+  {
+    "index": 380,
+    "filename": "core/0380_q2o.js",
+    "domain": "core",
+    "lines": 1406,
+    "bytes": 47316,
+    "sourceLines": "569222-570627",
+    "label": "q2o"
+  },
+  {
+    "index": 381,
+    "filename": "tools/0381_tryGetPDFReference_suppressNextSkillListing_startRelevantMem.js",
+    "domain": "tools",
+    "lines": 5345,
+    "bytes": 150175,
+    "sourceLines": "570628-575972",
+    "label": "tryGetPDFReference_suppressNextSkillListing_startRelevantMem"
+  },
+  {
+    "index": 382,
+    "filename": "zod/0382_DBm.js",
+    "domain": "zod",
+    "lines": 2603,
+    "bytes": 67475,
+    "sourceLines": "575973-578575",
+    "label": "DBm"
+  },
+  {
+    "index": 383,
+    "filename": "tools/0383_toAgentInfos_rebuildAgentDefinitions_parseAgentsFromJson.js",
+    "domain": "tools",
+    "lines": 4228,
+    "bytes": 137078,
+    "sourceLines": "578576-582803",
+    "label": "toAgentInfos_rebuildAgentDefinitions_parseAgentsFromJson"
+  },
+  {
+    "index": 384,
+    "filename": "cli/0384_call_CdTrustPrompt.js",
+    "domain": "cli",
+    "lines": 4449,
+    "bytes": 114540,
+    "sourceLines": "582804-587252",
+    "label": "call_CdTrustPrompt"
+  },
+  {
+    "index": 385,
+    "filename": "sessions/0385_clearConversation.js",
+    "domain": "sessions",
+    "lines": 782,
+    "bytes": 22054,
+    "sourceLines": "587253-588034",
+    "label": "clearConversation"
+  },
+  {
+    "index": 386,
+    "filename": "cli/0386_seedUtilization_loadPlanRateLimits_collectUsageData.js",
+    "domain": "cli",
+    "lines": 14842,
+    "bytes": 359733,
+    "sourceLines": "588035-602876",
+    "label": "seedUtilization_loadPlanRateLimits_collectUsageData"
+  },
+  {
+    "index": 387,
+    "filename": "third_party/0387_D3l.js",
+    "domain": "third_party",
+    "lines": 95,
+    "bytes": 3302,
+    "sourceLines": "602877-602971",
+    "label": "D3l"
+  },
+  {
+    "index": 388,
+    "filename": "core/0388_L3l.js",
+    "domain": "core",
+    "lines": 601,
+    "bytes": 13392,
+    "sourceLines": "602972-603572",
+    "label": "L3l"
+  },
+  {
+    "index": 389,
+    "filename": "cli/0389_getBgDaemonStatus_formatBgDaemonStatus.js",
+    "domain": "cli",
+    "lines": 9290,
+    "bytes": 235899,
+    "sourceLines": "603573-612862",
+    "label": "getBgDaemonStatus_formatBgDaemonStatus"
+  },
+  {
+    "index": 390,
+    "filename": "core/0390_oZt.js",
+    "domain": "core",
+    "lines": 301,
+    "bytes": 7263,
+    "sourceLines": "612863-613163",
+    "label": "oZt"
+  },
+  {
+    "index": 391,
+    "filename": "cli/0391_call_DesignLogin.js",
+    "domain": "cli",
+    "lines": 7153,
+    "bytes": 188335,
+    "sourceLines": "613164-620316",
+    "label": "call_DesignLogin"
+  },
+  {
+    "index": 392,
+    "filename": "auth/0392_call.js",
+    "domain": "auth",
+    "lines": 654,
+    "bytes": 19603,
+    "sourceLines": "620317-620970",
+    "label": "call"
+  },
+  {
+    "index": 393,
+    "filename": "cli/0393_settingSourceToScope_isPersistableScope_installSelectedPlugi.js",
+    "domain": "cli",
+    "lines": 5727,
+    "bytes": 157436,
+    "sourceLines": "620971-626697",
+    "label": "settingSourceToScope_isPersistableScope_installSelectedPlugi"
+  },
+  {
+    "index": 394,
+    "filename": "core/0394_H6l.js",
+    "domain": "core",
+    "lines": 6074,
+    "bytes": 158531,
+    "sourceLines": "626698-632771",
+    "label": "H6l"
+  },
+  {
+    "index": 395,
+    "filename": "cli/0395_call.js",
+    "domain": "cli",
+    "lines": 7304,
+    "bytes": 198544,
+    "sourceLines": "632772-640075",
+    "label": "call"
+  },
+  {
+    "index": 396,
+    "filename": "third_party/0396_A4o.js",
+    "domain": "third_party",
+    "lines": 184,
+    "bytes": 4734,
+    "sourceLines": "640076-640259",
+    "label": "A4o"
+  },
+  {
+    "index": 397,
+    "filename": "core/0397_pVm.js",
+    "domain": "core",
+    "lines": 151,
+    "bytes": 3891,
+    "sourceLines": "640260-640410",
+    "label": "pVm"
+  },
+  {
+    "index": 398,
+    "filename": "third_party/0398_O4o.js",
+    "domain": "third_party",
+    "lines": 3372,
+    "bytes": 93003,
+    "sourceLines": "640411-643782",
+    "label": "O4o"
+  },
+  {
+    "index": 399,
+    "filename": "core/0399_LKl.js",
+    "domain": "core",
+    "lines": 1,
+    "bytes": 15,
+    "sourceLines": "643783-643783",
+    "label": "LKl"
+  },
+  {
+    "index": 400,
+    "filename": "cli/0400_call.js",
+    "domain": "cli",
+    "lines": 4187,
+    "bytes": 98802,
+    "sourceLines": "643784-647970",
+    "label": "call"
+  },
+  {
+    "index": 401,
+    "filename": "core/0401_dYl.js",
+    "domain": "core",
+    "lines": 235,
+    "bytes": 5064,
+    "sourceLines": "647971-648205",
+    "label": "dYl"
+  },
+  {
+    "index": 402,
+    "filename": "cli/0402_resolvePowerupDiscoveryArm_POWERUP_DISCOVERY_COPY.js",
+    "domain": "cli",
+    "lines": 9588,
+    "bytes": 233956,
+    "sourceLines": "648206-657793",
+    "label": "resolvePowerupDiscoveryArm_POWERUP_DISCOVERY_COPY"
+  },
+  {
+    "index": 403,
+    "filename": "sessions/0403_filterResumableSessions_call.js",
+    "domain": "sessions",
+    "lines": 290,
+    "bytes": 6798,
+    "sourceLines": "657794-658083",
+    "label": "filterResumableSessions_call"
+  },
+  {
+    "index": 404,
+    "filename": "cli/0404_runUltrareviewHeadless_precheckLaunchScope_parseUltrareviewA.js",
+    "domain": "cli",
+    "lines": 980,
+    "bytes": 28163,
+    "sourceLines": "658084-659063",
+    "label": "runUltrareviewHeadless_precheckLaunchScope_parseUltrareviewA"
+  },
+  {
+    "index": 405,
+    "filename": "data/0405_DQl.js",
+    "domain": "data",
+    "lines": 77,
+    "bytes": 6639,
+    "sourceLines": "659064-659140",
+    "label": "DQl"
+  },
+  {
+    "index": 406,
+    "filename": "core/0406_nQm.js",
+    "domain": "core",
+    "lines": 1141,
+    "bytes": 28949,
+    "sourceLines": "659141-660281",
+    "label": "nQm"
+  },
+  {
+    "index": 407,
+    "filename": "cli/0407_call.js",
+    "domain": "cli",
+    "lines": 21260,
+    "bytes": 513296,
+    "sourceLines": "660282-681541",
+    "label": "call"
+  },
+  {
+    "index": 408,
+    "filename": "core/0408_Rnf.js",
+    "domain": "core",
+    "lines": 2,
+    "bytes": 26,
+    "sourceLines": "681542-681543",
+    "label": "Rnf"
+  },
+  {
+    "index": 409,
+    "filename": "cli/0409_withStdinPositional_stripSessionIdFlag_stripResumeFlags.js",
+    "domain": "cli",
+    "lines": 6170,
+    "bytes": 164922,
+    "sourceLines": "681544-687713",
+    "label": "withStdinPositional_stripSessionIdFlag_stripResumeFlags"
+  },
+  {
+    "index": 410,
+    "filename": "core/0410_attachHandler.js",
+    "domain": "core",
+    "lines": 701,
+    "bytes": 18967,
+    "sourceLines": "687714-688414",
+    "label": "attachHandler"
+  },
+  {
+    "index": 411,
+    "filename": "cli/0411_call.js",
+    "domain": "cli",
+    "lines": 4007,
+    "bytes": 99991,
+    "sourceLines": "688415-692421",
+    "label": "call"
+  },
+  {
+    "index": 412,
+    "filename": "auth/0412_call.js",
+    "domain": "auth",
+    "lines": 167,
+    "bytes": 4042,
+    "sourceLines": "692422-692588",
+    "label": "call"
+  },
+  {
+    "index": 413,
+    "filename": "cli/0413_tool_tagSession_startup.js",
+    "domain": "cli",
+    "lines": 9809,
+    "bytes": 266916,
+    "sourceLines": "692589-702397",
+    "label": "tool_tagSession_startup"
+  },
+  {
+    "index": 414,
+    "filename": "sessions/0414_writeBridgePointer_readBridgePointerAcrossWorktrees_readBrid.js",
+    "domain": "sessions",
+    "lines": 134,
+    "bytes": 3347,
+    "sourceLines": "702398-702531",
+    "label": "writeBridgePointer_readBridgePointerAcrossWorktrees_readBrid"
+  },
+  {
+    "index": 415,
+    "filename": "cli/0415_initSinks.js",
+    "domain": "cli",
+    "lines": 12,
+    "bytes": 215,
+    "sourceLines": "702532-702543",
+    "label": "initSinks"
+  },
+  {
+    "index": 416,
+    "filename": "auth/0416_runBridgeLoop_runBridgeHeadless_remoteControlPolicyError.js",
+    "domain": "auth",
+    "lines": 2015,
+    "bytes": 68342,
+    "sourceLines": "702544-704558",
+    "label": "runBridgeLoop_runBridgeHeadless_remoteControlPolicyError"
+  },
+  {
+    "index": 417,
+    "filename": "sessions/0417_startParentWatchdog_runDaemonWorker_registerShutdownHandlers.js",
+    "domain": "sessions",
+    "lines": 1195,
+    "bytes": 27339,
+    "sourceLines": "704559-705753",
+    "label": "startParentWatchdog_runDaemonWorker_registerShutdownHandlers"
+  },
+  {
+    "index": 418,
+    "filename": "cli/0418_renderDaemonHubStandalone_call_DaemonHub.js",
+    "domain": "cli",
+    "lines": 826,
+    "bytes": 18697,
+    "sourceLines": "705754-706579",
+    "label": "renderDaemonHubStandalone_call_DaemonHub"
+  },
+  {
+    "index": 419,
+    "filename": "auth/0419_default.js",
+    "domain": "auth",
+    "lines": 31,
+    "bytes": 556,
+    "sourceLines": "706580-706610",
+    "label": "default"
+  },
+  {
+    "index": 420,
+    "filename": "cli/0420_default.js",
+    "domain": "cli",
+    "lines": 914,
+    "bytes": 25113,
+    "sourceLines": "706611-707524",
+    "label": "default"
+  },
+  {
+    "index": 421,
+    "filename": "core/0421_fetchSystemPromptParts_buildSideQuestionFallbackParams.js",
+    "domain": "core",
+    "lines": 149,
+    "bytes": 3984,
+    "sourceLines": "707525-707673",
+    "label": "fetchSystemPromptParts_buildSideQuestionFallbackParams"
+  },
+  {
+    "index": 422,
+    "filename": "cli/0422_toSlashCommands_shippedCommandNames_scopedSkillName.js",
+    "domain": "cli",
+    "lines": 4974,
+    "bytes": 158873,
+    "sourceLines": "707674-712647",
+    "label": "toSlashCommands_shippedCommandNames_scopedSkillName"
+  },
+  {
+    "index": 423,
+    "filename": "sessions/0423_writeRemoteAgentMetadata_writeAgentMetadata_worktreeStateSig.js",
+    "domain": "sessions",
+    "lines": 5329,
+    "bytes": 145748,
+    "sourceLines": "712648-717976",
+    "label": "writeRemoteAgentMetadata_writeAgentMetadata_worktreeStateSig"
+  },
+  {
+    "index": 424,
+    "filename": "cli/0424_setPlanSlug_persistFileSnapshotIfRemote_peekPlanSlug.js",
+    "domain": "cli",
+    "lines": 275,
+    "bytes": 6884,
+    "sourceLines": "717977-718251",
+    "label": "setPlanSlug_persistFileSnapshotIfRemote_peekPlanSlug"
+  },
+  {
+    "index": 425,
+    "filename": "sandbox/0425_untypeDenyReasonForAskPropagation_toPosixPath_relativePath.js",
+    "domain": "sandbox",
+    "lines": 1476,
+    "bytes": 41670,
+    "sourceLines": "718252-719727",
+    "label": "untypeDenyReasonForAskPropagation_toPosixPath_relativePath"
+  },
+  {
+    "index": 426,
+    "filename": "cli/0426_repointTaskOutputSymlinks_initTaskOutputAsSymlink_initTaskOu.js",
+    "domain": "cli",
+    "lines": 2652,
+    "bytes": 71998,
+    "sourceLines": "719728-722379",
+    "label": "repointTaskOutputSymlinks_initTaskOutputAsSymlink_initTaskOu"
+  },
+  {
+    "index": 427,
+    "filename": "sandbox/0427_shouldSkipHookDueToTrust_persistHookOutput_parseElicitationH.js",
+    "domain": "sandbox",
+    "lines": 3182,
+    "bytes": 93250,
+    "sourceLines": "722380-725561",
+    "label": "shouldSkipHookDueToTrust_persistHookOutput_parseElicitationH"
+  },
+  {
+    "index": 428,
+    "filename": "git/0428_worktreeBranchName_validateWorktreeSlug_unlockAgentWorktree.js",
+    "domain": "git",
+    "lines": 2887,
+    "bytes": 115947,
+    "sourceLines": "725562-728448",
+    "label": "worktreeBranchName_validateWorktreeSlug_unlockAgentWorktree"
+  },
+  {
+    "index": 429,
+    "filename": "cli/0429_handleHintReject_createContextHintController_applyHintEdits.js",
+    "domain": "cli",
+    "lines": 4570,
+    "bytes": 142690,
+    "sourceLines": "728449-733018",
+    "label": "handleHintReject_createContextHintController_applyHintEdits"
+  },
+  {
+    "index": 430,
+    "filename": "tools/0430_isPlanModeSafeMcpTool_isClaudePreviewMcpToolName_isChromeMcp.js",
+    "domain": "tools",
+    "lines": 1264,
+    "bytes": 40938,
+    "sourceLines": "733019-734282",
+    "label": "isPlanModeSafeMcpTool_isClaudePreviewMcpToolName_isChromeMcp"
+  },
+  {
+    "index": 431,
+    "filename": "sandbox/0431_shouldSkipPluginAutoupdate_setPathTrusted_setClientDataCache.js",
+    "domain": "sandbox",
+    "lines": 9128,
+    "bytes": 272326,
+    "sourceLines": "734283-743410",
+    "label": "shouldSkipPluginAutoupdate_setPathTrusted_setClientDataCache"
+  },
+  {
+    "index": 432,
+    "filename": "cli/0432_trackDatadogEvent_shutdownDatadog_resetDatadogInit.js",
+    "domain": "cli",
+    "lines": 172,
+    "bytes": 9747,
+    "sourceLines": "743411-743582",
+    "label": "trackDatadogEvent_shutdownDatadog_resetDatadogInit"
+  },
+  {
+    "index": 433,
+    "filename": "auth/0433_runClaudeInChromeMcpServer_createChromeContext.js",
+    "domain": "auth",
+    "lines": 221,
+    "bytes": 7358,
+    "sourceLines": "743583-743803",
+    "label": "runClaudeInChromeMcpServer_createChromeContext"
+  },
+  {
+    "index": 434,
+    "filename": "tools/0434_sendChromeMessage_runChromeNativeHost.js",
+    "domain": "tools",
+    "lines": 442,
+    "bytes": 13087,
+    "sourceLines": "743804-744245",
+    "label": "sendChromeMessage_runChromeNativeHost"
+  },
+  {
+    "index": 435,
+    "filename": "sandbox/0435_runFastPathPolicyHelper_resetFastPathPolicyForTesting_loadFa.js",
+    "domain": "sandbox",
+    "lines": 153,
+    "bytes": 4868,
+    "sourceLines": "744246-744398",
+    "label": "runFastPathPolicyHelper_resetFastPathPolicyForTesting_loadFa"
+  },
+  {
+    "index": 436,
+    "filename": "core/0436_runPtyHost_createRing_applyKillCtrl.js",
+    "domain": "core",
+    "lines": 2790,
+    "bytes": 74433,
+    "sourceLines": "744399-747188",
+    "label": "runPtyHost_createRing_applyKillCtrl"
+  },
+  {
+    "index": 437,
+    "filename": "third_party/0437_jnn.js",
+    "domain": "third_party",
+    "lines": 1857,
+    "bytes": 57325,
+    "sourceLines": "747189-749045",
+    "label": "jnn"
+  },
+  {
+    "index": 438,
+    "filename": "core/0438_aYo.js",
+    "domain": "core",
+    "lines": 1599,
+    "bytes": 43660,
+    "sourceLines": "749046-750644",
+    "label": "aYo"
+  },
+  {
+    "index": 439,
+    "filename": "cli/0439_setup_isRemoteCoworkEntrypointExempted_isDesktopEntrypointEx.js",
+    "domain": "cli",
+    "lines": 229,
+    "bytes": 8059,
+    "sourceLines": "750645-750873",
+    "label": "setup_isRemoteCoworkEntrypointExempted_isDesktopEntrypointEx"
+  },
+  {
+    "index": 440,
+    "filename": "tools/0440_mcpServeHandler_mcpResetChoicesHandler_mcpRemoveHandler.js",
+    "domain": "tools",
+    "lines": 2304,
+    "bytes": 67713,
+    "sourceLines": "750874-753177",
+    "label": "mcpServeHandler_mcpResetChoicesHandler_mcpRemoveHandler"
+  },
+  {
+    "index": 441,
+    "filename": "cli/0441_install.js",
+    "domain": "cli",
+    "lines": 314,
+    "bytes": 9008,
+    "sourceLines": "753178-753491",
+    "label": "install"
+  },
+  {
+    "index": 442,
+    "filename": "auth/0442_setupTokenHandler_installHandler_doctorHandler.js",
+    "domain": "auth",
+    "lines": 157,
+    "bytes": 4071,
+    "sourceLines": "753492-753648",
+    "label": "setupTokenHandler_installHandler_doctorHandler"
+  },
+  {
+    "index": 443,
+    "filename": "tools/0443_pluginValidateHandler_pluginUpdateHandler_pluginUninstallHan.js",
+    "domain": "tools",
+    "lines": 3997,
+    "bytes": 121595,
+    "sourceLines": "753649-757645",
+    "label": "pluginValidateHandler_pluginUpdateHandler_pluginUninstallHan"
+  },
+  {
+    "index": 444,
+    "filename": "cli/0444_initReplBridge.js",
+    "domain": "cli",
+    "lines": 10516,
+    "bytes": 299464,
+    "sourceLines": "757646-768161",
+    "label": "initReplBridge"
+  },
+  {
+    "index": 445,
+    "filename": "sessions/0445_selectableUserMessagesFilter_replayableUserMessagesFilter_me.js",
+    "domain": "sessions",
+    "lines": 5765,
+    "bytes": 158553,
+    "sourceLines": "768162-773926",
+    "label": "selectableUserMessagesFilter_replayableUserMessagesFilter_me"
+  },
+  {
+    "index": 446,
+    "filename": "cli/0446_AutoModeOptInDialog_AUTO_MODE_DESCRIPTION.js",
+    "domain": "cli",
+    "lines": 18227,
+    "bytes": 461199,
+    "sourceLines": "773927-792153",
+    "label": "AutoModeOptInDialog_AUTO_MODE_DESCRIPTION"
+  },
+  {
+    "index": 447,
+    "filename": "sessions/0447_restoreGoalFromTranscript_findGoalToRestore.js",
+    "domain": "sessions",
+    "lines": 4559,
+    "bytes": 111881,
+    "sourceLines": "792154-796712",
+    "label": "restoreGoalFromTranscript_findGoalToRestore"
+  },
+  {
+    "index": 448,
+    "filename": "tools/0448_mergeAndFilterTools_isPrActivitySubscriptionTool_applyCoordi.js",
+    "domain": "tools",
+    "lines": 9148,
+    "bytes": 208432,
+    "sourceLines": "796713-805860",
+    "label": "mergeAndFilterTools_isPrActivitySubscriptionTool_applyCoordi"
+  },
+  {
+    "index": 449,
+    "filename": "cli/0449_useVoiceKeybindingHandler_useVoiceIntegration.js",
+    "domain": "cli",
+    "lines": 2741,
+    "bytes": 73164,
+    "sourceLines": "805861-808601",
+    "label": "useVoiceKeybindingHandler_useVoiceIntegration"
+  },
+  {
+    "index": 450,
+    "filename": "data/0450_lxl.js",
+    "domain": "data",
+    "lines": 2499,
+    "bytes": 104561,
+    "sourceLines": "808602-811100",
+    "label": "lxl"
+  },
+  {
+    "index": 451,
+    "filename": "tools/0451_lxl_SKILL_FILES.js",
+    "domain": "tools",
+    "lines": 358,
+    "bytes": 37795,
+    "sourceLines": "811101-811458",
+    "label": "lxl_SKILL_FILES"
+  },
+  {
+    "index": 452,
+    "filename": "third_party/0452_ZDc.js",
+    "domain": "third_party",
+    "lines": 1006,
+    "bytes": 58459,
+    "sourceLines": "811459-812464",
+    "label": "ZDc"
+  },
+  {
+    "index": 453,
+    "filename": "data/0453_eMc.js",
+    "domain": "data",
+    "lines": 807,
+    "bytes": 52720,
+    "sourceLines": "812465-813271",
+    "label": "eMc"
+  },
+  {
+    "index": 454,
+    "filename": "third_party/0454_tMc.js",
+    "domain": "third_party",
+    "lines": 2851,
+    "bytes": 156369,
+    "sourceLines": "813272-816122",
+    "label": "tMc"
+  },
+  {
+    "index": 455,
+    "filename": "data/0455_dMc.js",
+    "domain": "data",
+    "lines": 185,
+    "bytes": 9832,
+    "sourceLines": "816123-816307",
+    "label": "dMc"
+  },
+  {
+    "index": 456,
+    "filename": "third_party/0456_pMc.js",
+    "domain": "third_party",
+    "lines": 426,
+    "bytes": 20950,
+    "sourceLines": "816308-816733",
+    "label": "pMc"
+  },
+  {
+    "index": 457,
+    "filename": "data/0457_fMc.js",
+    "domain": "data",
+    "lines": 337,
+    "bytes": 18537,
+    "sourceLines": "816734-817070",
+    "label": "fMc"
+  },
+  {
+    "index": 458,
+    "filename": "third_party/0458_gMc.js",
+    "domain": "third_party",
+    "lines": 2041,
+    "bytes": 119107,
+    "sourceLines": "817071-819111",
+    "label": "gMc"
+  },
+  {
+    "index": 459,
+    "filename": "core/0459_EMc.js",
+    "domain": "core",
+    "lines": 1,
+    "bytes": 15,
+    "sourceLines": "819112-819112",
+    "label": "EMc"
+  },
+  {
+    "index": 460,
+    "filename": "tools/0460_lxl_SKILL_FILES.js",
+    "domain": "tools",
+    "lines": 2329,
+    "bytes": 111802,
+    "sourceLines": "819113-821441",
+    "label": "lxl_SKILL_FILES"
+  },
+  {
+    "index": 461,
+    "filename": "data/0461_kNc.js",
+    "domain": "data",
+    "lines": 517,
+    "bytes": 29461,
+    "sourceLines": "821442-821958",
+    "label": "kNc"
+  },
+  {
+    "index": 462,
+    "filename": "core/0462_PNc.js",
+    "domain": "core",
+    "lines": 1,
+    "bytes": 15,
+    "sourceLines": "821959-821959",
+    "label": "PNc"
+  },
+  {
+    "index": 463,
+    "filename": "tools/0463_registerClaudeCodeSkill_CLAUDE_CODE_SKILL_NAME_CLAUDE_CODE_S.js",
+    "domain": "tools",
+    "lines": 11404,
+    "bytes": 662805,
+    "sourceLines": "821960-833363",
+    "label": "registerClaudeCodeSkill_CLAUDE_CODE_SKILL_NAME_CLAUDE_CODE_S"
+  },
+  {
+    "index": 464,
+    "filename": "data/0464_lxl_RUN_EXAMPLE_FILES.js",
+    "domain": "data",
+    "lines": 6,
+    "bytes": 131,
+    "sourceLines": "833364-833369",
+    "label": "lxl_RUN_EXAMPLE_FILES"
+  },
+  {
+    "index": 465,
+    "filename": "tools/0465_registerRunSkill.js",
+    "domain": "tools",
+    "lines": 527,
+    "bytes": 22668,
+    "sourceLines": "833370-833896",
+    "label": "registerRunSkill"
+  },
+  {
+    "index": 466,
+    "filename": "data/0466_rUc_lxl.js",
+    "domain": "data",
+    "lines": 5,
+    "bytes": 78,
+    "sourceLines": "833897-833901",
+    "label": "rUc_lxl"
+  },
+  {
+    "index": 467,
+    "filename": "tools/0467_registerRunSkillGeneratorSkill.js",
+    "domain": "tools",
+    "lines": 729,
+    "bytes": 16472,
+    "sourceLines": "833902-834630",
+    "label": "registerRunSkillGeneratorSkill"
+  },
+  {
+    "index": 468,
+    "filename": "cli/0468_launchRepl.js",
+    "domain": "cli",
+    "lines": 24645,
+    "bytes": 673350,
+    "sourceLines": "834631-859275",
+    "label": "launchRepl"
+  },
+  {
+    "index": 469,
+    "filename": "api/0469_withProbeDeadline_apply3PDefaultFallbacks_TIER_LABELS.js",
+    "domain": "api",
+    "lines": 1056,
+    "bytes": 27687,
+    "sourceLines": "859276-860331",
+    "label": "withProbeDeadline_apply3PDefaultFallbacks_TIER_LABELS"
+  },
+  {
+    "index": 470,
+    "filename": "core/0470_N.js",
+    "domain": "core",
+    "lines": 45,
+    "bytes": 702,
+    "sourceLines": "860332-860376",
+    "label": "N"
+  },
+  {
+    "index": 471,
+    "filename": "cli/0471_ApproveApiKey.js",
+    "domain": "cli",
+    "lines": 251,
+    "bytes": 5210,
+    "sourceLines": "860377-860627",
+    "label": "ApproveApiKey"
+  },
+  {
+    "index": 472,
+    "filename": "core/0472_l3c.js",
+    "domain": "core",
+    "lines": 34,
+    "bytes": 515,
+    "sourceLines": "860628-860661",
+    "label": "l3c"
+  },
+  {
+    "index": 473,
+    "filename": "auth/0473_SkippableStep_Onboarding.js",
+    "domain": "auth",
+    "lines": 532,
+    "bytes": 12792,
+    "sourceLines": "860662-861193",
+    "label": "SkippableStep_Onboarding"
+  },
+  {
+    "index": 474,
+    "filename": "sandbox/0474_TrustDialog.js",
+    "domain": "sandbox",
+    "lines": 422,
+    "bytes": 10360,
+    "sourceLines": "861194-861615",
+    "label": "TrustDialog"
+  },
+  {
+    "index": 475,
+    "filename": "cli/0475_PowerupDiscoveryStep.js",
+    "domain": "cli",
+    "lines": 247,
+    "bytes": 5447,
+    "sourceLines": "861616-861862",
+    "label": "PowerupDiscoveryStep"
+  },
+  {
+    "index": 476,
+    "filename": "sandbox/0476_BypassPermissionsModeDialog.js",
+    "domain": "sandbox",
+    "lines": 111,
+    "bytes": 2887,
+    "sourceLines": "861863-861973",
+    "label": "BypassPermissionsModeDialog"
+  },
+  {
+    "index": 477,
+    "filename": "cli/0477_loadSettingsFromFlag_loadSettingSourcesFromFlag_loadManagedS.js",
+    "domain": "cli",
+    "lines": 3460,
+    "bytes": 87658,
+    "sourceLines": "861974-865433",
+    "label": "loadSettingsFromFlag_loadSettingSourcesFromFlag_loadManagedS"
+  },
+  {
+    "index": 478,
+    "filename": "sessions/0478_sessionTeamName_initializeSessionTeam__resetInheritedTeamNam.js",
+    "domain": "sessions",
+    "lines": 727,
+    "bytes": 18177,
+    "sourceLines": "865434-866160",
+    "label": "sessionTeamName_initializeSessionTeam__resetInheritedTeamNam"
+  },
+  {
+    "index": 479,
+    "filename": "tools/0479_setupComputerUseMCP.js",
+    "domain": "tools",
+    "lines": 7551,
+    "bytes": 294321,
+    "sourceLines": "866161-873711",
+    "label": "setupComputerUseMCP"
+  },
+  {
+    "index": 480,
+    "filename": "sessions/0480_buildWorkspaceDiffResponse.js",
+    "domain": "sessions",
+    "lines": 1133,
+    "bytes": 28781,
+    "sourceLines": "873712-874844",
+    "label": "buildWorkspaceDiffResponse"
+  },
+  {
+    "index": 481,
+    "filename": "cli/0481_runHeadlessBashCommand.js",
+    "domain": "cli",
+    "lines": 51,
+    "bytes": 1178,
+    "sourceLines": "874845-874895",
+    "label": "runHeadlessBashCommand"
+  },
+  {
+    "index": 482,
+    "filename": "sessions/0482_waitForPendingMcpBeforeFirstCommand_toScopedConfig_shouldWar.js",
+    "domain": "sessions",
+    "lines": 5483,
+    "bytes": 191613,
+    "sourceLines": "874896-880378",
+    "label": "waitForPendingMcpBeforeFirstCommand_toScopedConfig_shouldWar"
+  },
+  {
+    "index": 483,
+    "filename": "core/0483_reconcileMcpServers.js",
+    "domain": "core",
+    "lines": 677,
+    "bytes": 14540,
+    "sourceLines": "880379-881055",
+    "label": "reconcileMcpServers"
+  },
+  {
+    "index": 484,
+    "filename": "sessions/0484_reportPrefetchOutcome_prefetchRemoteHistory_historyPageToSee.js",
+    "domain": "sessions",
+    "lines": 318,
+    "bytes": 8216,
+    "sourceLines": "881056-881373",
+    "label": "reportPrefetchOutcome_prefetchRemoteHistory_historyPageToSee"
+  },
+  {
+    "index": 485,
+    "filename": "auth/0485_buildRemoteAttachConfig_attachRemote.js",
+    "domain": "auth",
+    "lines": 181,
+    "bytes": 5746,
+    "sourceLines": "881374-881554",
+    "label": "buildRemoteAttachConfig_attachRemote"
+  },
+  {
+    "index": 486,
+    "filename": "sessions/0486_teleportWithProgress_TeleportProgress.js",
+    "domain": "sessions",
+    "lines": 173,
+    "bytes": 3686,
+    "sourceLines": "881555-881727",
+    "label": "teleportWithProgress_TeleportProgress"
+  },
+  {
+    "index": 487,
+    "filename": "third_party/0487_Whe.js",
+    "domain": "third_party",
+    "lines": 66,
+    "bytes": 1527,
+    "sourceLines": "881728-881793",
+    "label": "Whe"
+  },
+  {
+    "index": 488,
+    "filename": "core/0488_yB.js",
+    "domain": "core",
+    "lines": 97,
+    "bytes": 2349,
+    "sourceLines": "881794-881890",
+    "label": "yB"
+  },
+  {
+    "index": 489,
+    "filename": "auth/0489_JWTInvalid_JWTExpired_JWTClaimValidationFailed.js",
+    "domain": "auth",
+    "lines": 3458,
+    "bytes": 96881,
+    "sourceLines": "881891-885348",
+    "label": "JWTInvalid_JWTExpired_JWTClaimValidationFailed"
+  },
+  {
+    "index": 490,
+    "filename": "core/0490_HS_oC.js",
+    "domain": "core",
+    "lines": 257,
+    "bytes": 6726,
+    "sourceLines": "885349-885605",
+    "label": "HS_oC"
+  },
+  {
+    "index": 491,
+    "filename": "auth/0491_jwtVerify_jwtDecrypt_importX509.js",
+    "domain": "auth",
+    "lines": 68,
+    "bytes": 1789,
+    "sourceLines": "885606-885673",
+    "label": "jwtVerify_jwtDecrypt_importX509"
+  },
+  {
+    "index": 492,
+    "filename": "third_party/0492_Tzc.js",
+    "domain": "third_party",
+    "lines": 946,
+    "bytes": 24008,
+    "sourceLines": "885674-886619",
+    "label": "Tzc"
+  },
+  {
+    "index": 493,
+    "filename": "auth/0493_Zzc.js",
+    "domain": "auth",
+    "lines": 77,
+    "bytes": 2320,
+    "sourceLines": "886620-886696",
+    "label": "Zzc"
+  },
+  {
+    "index": 494,
+    "filename": "third_party/0494_oSr.js",
+    "domain": "third_party",
+    "lines": 3245,
+    "bytes": 95256,
+    "sourceLines": "886697-889941",
+    "label": "oSr"
+  },
+  {
+    "index": 495,
+    "filename": "core/0495_hD.js",
+    "domain": "core",
+    "lines": 3381,
+    "bytes": 86363,
+    "sourceLines": "889942-893322",
+    "label": "hD"
+  },
+  {
+    "index": 496,
+    "filename": "third_party/0496_Rss.js",
+    "domain": "third_party",
+    "lines": 683,
+    "bytes": 19078,
+    "sourceLines": "893323-894005",
+    "label": "Rss"
+  },
+  {
+    "index": 497,
+    "filename": "core/0497_ISr.js",
+    "domain": "core",
+    "lines": 3678,
+    "bytes": 113893,
+    "sourceLines": "894006-897683",
+    "label": "ISr"
+  },
+  {
+    "index": 498,
+    "filename": "cli/0498_printAgentsJson.js",
+    "domain": "cli",
+    "lines": 1525,
+    "bytes": 44958,
+    "sourceLines": "897684-899208",
+    "label": "printAgentsJson"
+  },
+  {
+    "index": 499,
+    "filename": "sandbox/0499_refuseBypassUnderRoot_ensureAgentsBypassConsent_applyBypassP.js",
+    "domain": "sandbox",
+    "lines": 64,
+    "bytes": 1738,
+    "sourceLines": "899209-899272",
+    "label": "refuseBypassUnderRoot_ensureAgentsBypassConsent_applyBypassP"
+  },
+  {
+    "index": 500,
+    "filename": "cli/0500_parseKindArgs_handleListAllKinds_handleCliKind.js",
+    "domain": "cli",
+    "lines": 7319,
+    "bytes": 250715,
+    "sourceLines": "899273-906591",
+    "label": "parseKindArgs_handleListAllKinds_handleCliKind"
+  },
+  {
+    "index": 501,
+    "filename": "sessions/0501_tailLog_parseArgs_daemonMain.js",
+    "domain": "sessions",
+    "lines": 711,
+    "bytes": 21802,
+    "sourceLines": "906592-907302",
+    "label": "tailLog_parseArgs_daemonMain"
+  },
+  {
+    "index": 502,
+    "filename": "cli/0502_NON_REPL_SUBCOMMANDS.js",
+    "domain": "cli",
+    "lines": 596,
+    "bytes": 19972,
+    "sourceLines": "907303-907898",
+    "label": "NON_REPL_SUBCOMMANDS"
+  },
+  {
+    "index": 503,
+    "filename": "core/0503_section.js",
+    "domain": "core",
+    "lines": 1,
+    "bytes": 3,
+    "sourceLines": "907899-907899",
+    "label": "section"
+  }
+]

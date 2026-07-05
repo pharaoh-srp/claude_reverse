@@ -1,0 +1,10 @@
+package defpackage;
+
+import kotlinx.serialization.KSerializer;
+
+/* JADX INFO: loaded from: classes.dex */
+public final class kxg {
+    public final KSerializer serializer() {
+        return jxg.a;
+    }
+}

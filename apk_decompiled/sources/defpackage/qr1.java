@@ -1,0 +1,9 @@
+package defpackage;
+
+/* JADX INFO: loaded from: classes.dex */
+public final class qr1 extends jr1 {
+    @Override // defpackage.b5c
+    public final void a(xjk xjkVar) {
+        xjkVar.m(this);
+    }
+}

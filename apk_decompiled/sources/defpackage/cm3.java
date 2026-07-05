@@ -1,0 +1,93 @@
+package defpackage;
+
+import com.agog.mathdisplay.render.MTTypesetterKt;
+
+/* JADX INFO: loaded from: classes.dex */
+public final class cm3 {
+    public final e0g a;
+    public final e0g b;
+    public final e0g c;
+    public final e0g d;
+    public final e0g e;
+    public final e0g f;
+    public final e0g g;
+    public final e0g h;
+    public final e0g i;
+    public final e0g j;
+    public final e0g k;
+    public final e0g l;
+    public final e0g m;
+    public final e0g n;
+    public final e0g o;
+    public final e0g p;
+    public final e0g q;
+    public final e0g r;
+    public final e0g s;
+    public final e0g t;
+    public final e0g u;
+    public final e0g v;
+
+    public cm3() {
+        vve vveVar = qkg.a;
+        vve vveVar2 = qkg.b;
+        vve vveVar3 = qkg.c;
+        vve vveVar4 = qkg.e;
+        vve vveVar5 = qkg.g;
+        vve vveVar6 = qkg.h;
+        vve vveVar7 = qkg.i;
+        vve vveVar8 = qkg.j;
+        vve vveVar9 = qkg.k;
+        vve vveVar10 = qkg.l;
+        vve vveVar11 = qkg.m;
+        vve vveVarD = xve.d(MTTypesetterKt.kLineSkipLimitMultiplier, MTTypesetterKt.kLineSkipLimitMultiplier, 6.0f, 6.0f, 3);
+        vve vveVarD2 = xve.d(12.0f, 12.0f, MTTypesetterKt.kLineSkipLimitMultiplier, MTTypesetterKt.kLineSkipLimitMultiplier, 12);
+        xve.d(16.0f, 16.0f, MTTypesetterKt.kLineSkipLimitMultiplier, MTTypesetterKt.kLineSkipLimitMultiplier, 12);
+        vve vveVar12 = xve.a;
+        vve vveVar13 = qkg.d;
+        vve vveVar14 = qkg.f;
+        vveVar.getClass();
+        vveVar2.getClass();
+        vveVar3.getClass();
+        vveVar4.getClass();
+        vveVar5.getClass();
+        vveVar6.getClass();
+        vveVar7.getClass();
+        vveVar8.getClass();
+        vveVar9.getClass();
+        vveVar10.getClass();
+        vveVar11.getClass();
+        vveVar6.getClass();
+        vveVar10.getClass();
+        vveVar12.getClass();
+        vveVar6.getClass();
+        vveVar13.getClass();
+        vveVar14.getClass();
+        vveVar6.getClass();
+        vveVar6.getClass();
+        vveVar8.getClass();
+        vveVar6.getClass();
+        vveVar6.getClass();
+        this.a = vveVar;
+        this.b = vveVar2;
+        this.c = vveVar3;
+        this.d = vveVar4;
+        this.e = vveVar5;
+        this.f = vveVar6;
+        this.g = vveVar7;
+        this.h = vveVar8;
+        this.i = vveVar9;
+        this.j = vveVar10;
+        this.k = vveVar11;
+        this.l = vveVarD;
+        this.m = vveVarD2;
+        this.n = vveVar6;
+        this.o = vveVar10;
+        this.p = vveVar12;
+        this.q = vveVar6;
+        this.r = vveVar13;
+        this.s = vveVar14;
+        this.t = vveVar6;
+        this.u = vveVar6;
+        this.v = vveVar6;
+    }
+}
